@@ -17,7 +17,7 @@ kcminputrc Mouse cursorSize ''
 !/usr/share/config/kcminputrc
 *
 ksplashrc KSplash Theme Breeze
-!/home/jschiavon/.config/ksplashrc
+/home/jschiavon/.config/ksplashrc
 !/etc/xdg/ksplashrc
 !/home/jschiavon/.local/share/config/ksplashrc
 !/home/jschiavon/.local/share/flatpak/exports/share/config/ksplashrc
@@ -26,7 +26,7 @@ ksplashrc KSplash Theme Breeze
 !/usr/share/config/ksplashrc
 *
 ksplashrc KSplash Engine KSplashQML
-!/home/jschiavon/.config/ksplashrc
+/home/jschiavon/.config/ksplashrc
 !/etc/xdg/ksplashrc
 !/home/jschiavon/.local/share/config/ksplashrc
 !/home/jschiavon/.local/share/flatpak/exports/share/config/ksplashrc

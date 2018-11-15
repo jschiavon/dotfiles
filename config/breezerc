@@ -1,0 +1,8 @@
+[Common]
+OutlineCloseButton=false
+
+[Style]
+MenuOpacity=80
+
+[Windeco]
+DrawSizeGrip=true

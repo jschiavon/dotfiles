@@ -3,3 +3,9 @@ ordering=firefox.desktop,qupzilla.desktop,org.kde.dolphin.desktop,org.kde.konver
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-2-global]
 ordering=firefox.desktop,qupzilla.desktop,org.kde.dolphin.desktop,org.kde.konversation.desktop,libreoffice-writer.desktop,cantata.desktop,kde4-digikam.desktop,org.kde.konsole.desktop,octopi.desktop,systemsettings.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-22-b451dd88-3296-4966-9cb2-d99fbe29c8aa]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-22-global]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop

@@ -1,6 +1,18 @@
+[FileDialogSize]
+Height 1080=480
+Width 1920=808
+
+[KFileDialog Settings]
+Recent Files[$e]=file:///usr/share/backgrounds/manjaro-wallpapers-18.0/illyria-adapta-dark-maia.jpg,file:///usr/share/backgrounds/manjaro-wallpapers-18.0/manjaro_maia_abstract.jpg
+Recent URLs[$e]=file:///usr/share/backgrounds/manjaro-wallpapers-18.0/
+
 [MainWindow]
 Height 1080=700
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAABAAAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1024
+
+[Open-with settings]
+CompletionMode=1
+History=

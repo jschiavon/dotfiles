@@ -7,18 +7,6 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 MidButton;NoModifier=org.kde.paste
 RightButton;NoModifier=org.kde.contextmenu
 
-[Containments][35]
-activityId=b451dd88-3296-4966-9cb2-d99fbe29c8aa
-formfactor=0
-immutability=1
-lastScreen=0
-location=0
-plugin=org.kde.plasma.folder
-wallpaperplugin=org.kde.image
-
-[Containments][35][Configuration]
-PreloadWeight=34
-
 [Containments][46]
 activityId=b451dd88-3296-4966-9cb2-d99fbe29c8aa
 formfactor=0
@@ -29,7 +17,34 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][46][Configuration]
-PreloadWeight=34
+PreloadWeight=26
+
+[Containments][47]
+activityId=b451dd88-3296-4966-9cb2-d99fbe29c8aa
+formfactor=0
+immutability=1
+lastScreen=0
+location=0
+plugin=org.kde.desktopcontainment
+wallpaperplugin=org.kde.image
+
+[Containments][47][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][47][Configuration]
+PreloadWeight=26
+
+[Containments][47][General]
+ToolBoxButtonState=bottomright
+ToolBoxButtonX=1897
+ToolBoxButtonY=1037
+
+[Containments][47][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/backgrounds/manjaro-wallpapers-18.0/illyria-adapta-dark-maia.jpg
+
+[General]
+immutability=1
 
 [ScreenMapping]
 itemsOnDisabledScreens=
