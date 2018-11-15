@@ -10,5 +10,6 @@
     ~/.nanorc: nanorc
     ~/.gitconfig: gitconfig
     ~/.oh-my-zsh: oh-my-zsh
+    ~/.config: config
 
 

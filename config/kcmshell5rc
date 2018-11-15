@@ -1,0 +1,7 @@
+[FileDialogSize]
+Height 1080=480
+Width 1920=640
+
+[KFileDialog Settings]
+Recent Files[$e]=ca.pem,file:$HOME/.cat_installer/ca.pem
+Recent URLs[$e]=file:$HOME/.cat_installer/
