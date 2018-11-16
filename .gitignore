@@ -1,0 +1,10 @@
+config/Code\ -\ OSS/Backups/
+config/Code\ -\ OSS/Local\ Storage/
+config/Code\ -\ OSS/Cache
+config/Code\ -\ OSS/CachedData
+config/Code\ -\ OSS/CachedExtensions
+config/Code\ -\ OSS/GPUCache
+config/Code\ -\ OSS/logs
+config/Code\ -\ OSS/Workspaces
+config/Code\ -\ OSS/User/workspaceStorage
+config/Code\ -\ OSS/User/snippets
