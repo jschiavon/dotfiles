@@ -1,7 +1,7 @@
 {
     "telemetry.machineId": "90f6a35a7aa8ae85a5953ade13eda0b77baa2e035a53c06917a545b8815c7e2b",
     "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
+    "themeBackground": "#2f343f",
     "lastKnownKeybindings": {
         "workbench.action.files.newUntitledFile": {
             "id": "workbench.action.files.newUntitledFile",
@@ -65,7 +65,7 @@
         },
         "workbench.action.closeWindow": {
             "id": "workbench.action.closeWindow",
-            "label": "Ctrl+Shift+W",
+            "label": "Ctrl+W",
             "isNative": true
         },
         "workbench.action.closeFolder": {
@@ -220,8 +220,8 @@
         },
         "workbench.view.scm": {
             "id": "workbench.view.scm",
-            "label": "Ctrl+Shift+G",
-            "isNative": true
+            "label": "Ctrl+Shift+G G",
+            "isNative": false
         },
         "workbench.view.debug": {
             "id": "workbench.view.debug",
@@ -460,11 +460,18 @@
             "backupPath": "/home/jschiavon/.config/Code - OSS/Backups/1542299951342",
             "uiState": {
                 "mode": 1,
-                "x": 448,
-                "y": 185,
-                "width": 1024,
-                "height": 768
+                "x": 1529,
+                "y": 119,
+                "width": 1423,
+                "height": 801
             }
         }
+    },
+    "pickerWorkingDir": "/home/jschiavon",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/jschiavon/.dotfiles"
+        ],
+        "files2": []
     }
 }

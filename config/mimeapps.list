@@ -1,3 +1,6 @@
 [Default Applications]
 x-scheme-handler/code-oss=code.desktop
 x-scheme-handler/mailto=thunderbird.desktop;
+
+[Added Associations]
+application/pdf=okularApplication_pdf.desktop;

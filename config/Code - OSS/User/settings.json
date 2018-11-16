@@ -1,0 +1,19 @@
+{
+    "terminal.external.linuxExec": "konsole",
+    "python.autoComplete.extraPaths": [
+        "~/.local/bin/"
+    ],
+    "update.enableWindowsBackgroundUpdates": false,
+    "editor.wordWrap": "bounded",
+    "editor.foldingStrategy": "indentation",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Arc Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "update.channel": "none",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "update.showReleaseNotes": false
+}

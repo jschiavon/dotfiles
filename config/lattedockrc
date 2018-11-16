@@ -1,4 +1,5 @@
 [PlasmaRunnerManager]
+LaunchCounts=1 services_systemsettings.desktop,1 services_org.kde.konsole.desktop,1 services_org.kde.kile.desktop,1 services_org.kde.yakuake.desktop
 pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
 
 [ScreenConnectors]
