@@ -1,5 +1,5 @@
 [Adapters]
-10:F0:05:E8:EF:C6_powered=false
+10:F0:05:E8:EF:C6_powered=true
 
 [Devices]
 connectedDevices=

@@ -1,3 +1,7 @@
+[FileDialogSize]
+Height 1080=480
+Width 1920=640
+
 [General]
 Config Revision=10
 Days Meta Infos=30
@@ -13,8 +17,8 @@ Show Tab Bar=true
 Startup Session=manual
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Documents/PhD/AMT/homework1/script_andrew_curves,file:$HOME/Documents/PhD/AMT/homework1/script_andrew_curves
-Recent URLs[$e]=file:$HOME/Documents/PhD/AMT/homework1/
+Recent Files[$e]=file:$HOME/Documents/gdr/TombaOnori/commenti.txt
+Recent URLs[$e]=file:$HOME/Documents/gdr/TombaOnori/
 
 [KTextEditor Document]
 Allow End of Line Detection=true
@@ -62,7 +66,7 @@ Word Wrap Marker=false
 
 [KTextEditor View]
 Allow Mark Menu=true
-Auto Brackets=false
+Auto Brackets=true
 Auto Center Lines=0
 Auto Completion=true
 Backspace Remove Composed Characters=false
@@ -99,13 +103,18 @@ Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
+[KTextEditor::Search]
+Replace History=\\0
+Search History=^,*
+
 [MainWindow]
-Height 1080=683
+Height 1080=1022
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAB4AAAAP+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1920=1062
-Window-Maximized 1080x1920=true
+Width 1920=960
+Window-Maximized 1024x1280=true
+Window-Maximized 1080x1920=false
 
 [filetree]
 editShade=33,84,111

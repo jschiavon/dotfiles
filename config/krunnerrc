@@ -1,2 +1,5 @@
+[General]
+history=7+,fi,homew
+
 [PlasmaRunnerManager]
-LaunchCounts=
+LaunchCounts=1 services_firefox.desktop

@@ -105,6 +105,10 @@ ForegroundNormal=239,240,241
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
+[DirSelect Dialog]
+DirSelectDialog Size=640,480
+History Items[$e]=file:$HOME/Documents/Papers,file:$HOME/Documents/PhD/AMT/homework1,file:$HOME/Documents/PhD/AMT
+
 [General]
 ColorScheme=Breeze Dark
 Name=Breeze Dark

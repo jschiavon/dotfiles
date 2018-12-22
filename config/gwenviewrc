@@ -1,2 +1,37 @@
 [$Version]
 update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update
+
+[MainWindow]
+Height 1024=480
+Height 1080=480
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1280=766
+Width 1920=766
+Window-Maximized 1080x1920=true
+
+[Recent Files]
+File1[$e]=$HOME/Documents/PhD/AMT/homework2/lfw1000/Adel_Al-Jubeir_0003.pgm
+File10[$e]=$HOME/Pictures/Screenshot_20181203.png
+File2[$e]=$HOME/Documents/PhD/AMT/homework2/lfw1000/Ahmet_Demir_0001.pgm
+File3[$e]=$HOME/Documents/PhD/AMT/homework2/lfw1000/Al_Gore_0007.pgm
+File4[$e]=$HOME/Documents/PhD/AMT/homework2/lfw1000/Al_Sharpton_0006.pgm
+File5[$e]=$HOME/Documents/PhD/AMT/homework2/lfw1000/Alastair_Campbell_0003.pgm
+File6[$e]=$HOME/Documents/PhD/AMT/homework2/lfw1000/Alan_Dershowitz_0001.pgm
+File7[$e]=$HOME/Documents/PhD/AMT/homework2/lfw1000/Alan_Jackson_0001.pgm
+File8[$e]=$HOME/Documents/PhD/AMT/homework2/lfw1000/Nicolas_Cage_0004.pgm
+File9[$e]=$HOME/Documents/PhD/AMT/homework2/lfw1000/Aaron_Eckhart_0001.pgm
+Name1[$e]=Adel_Al-Jubeir_0003.pgm
+Name10[$e]=Screenshot_20181203.png
+Name2[$e]=Ahmet_Demir_0001.pgm
+Name3[$e]=Al_Gore_0007.pgm
+Name4[$e]=Al_Sharpton_0006.pgm
+Name5[$e]=Alastair_Campbell_0003.pgm
+Name6[$e]=Alan_Dershowitz_0001.pgm
+Name7[$e]=Alan_Jackson_0001.pgm
+Name8[$e]=Nicolas_Cage_0004.pgm
+Name9[$e]=Aaron_Eckhart_0001.pgm
+
+[SideBar]
+SideBarSplitterSizes=242,1675

@@ -1,2 +1,12 @@
+[General]
+lastSaveAsLocation=file:///home/jschiavon/Pictures/
+
 [GuiConfig]
-window-position=50,50
+captureModeIndex=4
+cropRegion=1724,222,1058,467
+lastUsedSaveMode=0
+window-position=50,29
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Screenshot_20181203.png,file:$HOME/Pictures/Screenshot_20181220_175450.png
+Recent URLs[$e]=file:$HOME/Pictures/

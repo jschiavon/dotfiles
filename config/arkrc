@@ -1,9 +1,9 @@
 [ExtractDialog]
-DirHistory[$e]=$HOME/Documents/
+DirHistory[$e]=$HOME/Documents/Burocrazia/BipCedoliniCud/,$HOME/Documents/
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME,file:$HOME
-Recent URLs[$e]=file:///tmp/mozilla_jschiavon0/
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Documents/Burocrazia/BipCedoliniCud/
 
 [KTextEditor Document]
 Allow End of Line Detection=true
@@ -89,13 +89,38 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAGcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 1080=480
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
-splitterSizes=426,213
+Width 1920=640
+splitterSizes=489,150
+
+[Recent Files]
+File1[$e]=$HOME/Documents/gdr/DeD5eLaTeXTemplate.zip
+File2[$e]=$HOME/Documents/The Seven Deadly Sins.zip
+File3[$e]=$HOME/Documents/PhD/AMT/homework1/homework1_jschiavon.synctex.gz
+File4[$e]=$HOME/Documents/PhD/AMT/homework2/lfw1000.zip
+File5[$e]=$HOME/Documents/PhD/AMT/homework1/homework1.zip
+File6[$e]=$HOME/Documents/PhD/AMT/homework2/homework2_jschiavon.zip
+File7[$e]=$HOME/Documents/MBA.tar.gz
+File8[$e]=$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.zip
+Name1[$e]=DeD5eLaTeXTemplate.zip
+Name2[$e]=The Seven Deadly Sins.zip
+Name3[$e]=homework1_jschiavon.synctex.gz
+Name4[$e]=lfw1000.zip
+Name5[$e]=homework1.zip
+Name6[$e]=homework2_jschiavon.zip
+Name7[$e]=MBA.tar.gz
+Name8[$e]=homework3_jschiavon.zip
 
 [Viewer]
-Height 1080=140
-State=AAAA/wAAAAD9AAAAAAAAAgUAAABIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 1024=400
+Height 1080=400
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1920=517
+Width 1280=335
+Width 1920=520
+Window-Maximized 1080x1920=true

@@ -1,12 +1,168 @@
 [Desktop Entry]
 DefaultProfile=Shell.profile
 
-[Document-Settings,URL=file://:@/tmp/kile-ySgkwP/test.tex]
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
 bibliographyBackendAutoDetected=
 bibliographyBackendUserOverride=
-kile_livePreviewEnabled=false
+kile_livePreviewEnabled=true
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex]
+Bookmarks=196
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jacopo.tex]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=true
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/texmf/tex/latex/dnd/dnd.sty]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/texmf/tex/latex/dnd/example.tex]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/texmf/tex/latex/dnd/lib/dndmonster.sty]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/tmp/kile-ySgkwP/test.tex]
+bibliographyBackendAutoDetected[$d]
+bibliographyBackendUserOverride[$d]
+kile_livePreviewEnabled[$d]
+kile_livePreviewStatusUserSpecified[$d]
+kile_livePreviewTool[$d]
 
 [Document-Settings,URL=file://:@/tmp/kile-ySgkwP/test_bib.tex]
 bibliographyBackendAutoDetected=
@@ -23,9 +179,22 @@ kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
 
 [Document-Settings,URL=file://:@/tmp/kile-ySgkwP/test_plain.tex]
+bibliographyBackendAutoDetected[$d]
+bibliographyBackendUserOverride[$d]
+kile_livePreviewEnabled[$d]
+kile_livePreviewStatusUserSpecified[$d]
+kile_livePreviewTool[$d]
+
+[Document-Settings,URL=file://:@/usr/share/texmf-dist/tex/latex/geometry/geometry.sty]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
 bibliographyBackendAutoDetected=
 bibliographyBackendUserOverride=
-kile_livePreviewEnabled=false
+kile_livePreviewEnabled=true
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
 
@@ -43,20 +212,33 @@ View Style=Tree
 detailedViewIconSize=0
 
 [Files]
+LastDocument[$e]=$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex
 lastDir[$e]=$HOME/
 
 [FilesOpenOnStart]
-NoDOOS=0
+DocsOpenOnStart0[$e]=$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex
+DocsOpenOnStart1[$d]
+EncodingsOfDocsOpenOnStart0[$e]=UTF-8
+EncodingsOfDocsOpenOnStart1[$d]
+NoDOOS=1
 NoPOOS=0
 
 [Geometries]
+MainwindowHeight=1022
+MainwindowWidth=1920
 horizontalSplitterLeft=30
-horizontalSplitterRight=909
-verticalSplitterBottom=275
-verticalSplitterTop=643
+horizontalSplitterRight=874
+verticalSplitterBottom=288
+verticalSplitterTop=672
 
 [IncludeGraphics]
 imagemagick=true
+
+[KFileDialog Settings]
+Height 1080=540
+Recent Files[$e]=file:$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file:$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file:$HOME/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file:$HOME/texmf/tex/latex/dnd/lib/dndmonster.sty,file:$HOME/texmf/tex/latex/dnd/example.tex,file:$HOME/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex,file:$HOME/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file:$HOME/Documents/Archlinux_installazione/installazione_archlinux.tex
+Recent URLs[$e]=file:$HOME/Documents/PhD/AMT/homework3/
+Width 1920=960
 
 [KTextEditor Document]
 Allow End of Line Detection=true
@@ -97,7 +279,7 @@ Fallback Encoding=ISO-8859-15
 
 [KTextEditor Renderer]
 Animate Bracket Matching=false
-Schema=Normal
+Schema=KDE
 Show Indentation Lines=false
 Show Whole Bracket Expression=false
 Word Wrap Marker=false
@@ -141,30 +323,69 @@ Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
+[KTextEditor::Search]
+Replace History=equation*}
+Search History=table,equation}
+
 [KileMainWindow]
-Height 1080=980
+Height 1024=653
+Height 1080=1022
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABxwAAAOXAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAUAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGAB0AG8AbwBsAHMAVABvAG8AbABCAGEAcgEAAADo/////wAAAAAAAAAAAAAAFgBlAGQAaQB0AFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABYAbQBhAHQAaABUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAmAE8AawB1AGwAYQByAFYAaQBlAHcAZQByAFQAbwBvAGwAQgBhAHIBAAACLv////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAUAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGAB0AG8AbwBsAHMAVABvAG8AbABCAGEAcgEAAAIm/////wAAAAAAAAAAAAAAFgBlAGQAaQB0AFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABYAbQBhAHQAaABUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAmAE8AawB1AGwAYQByAFYAaQBlAHcAZQByAFQAbwBvAGwAQgBhAHIBAAAD3v////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
-Width 1920=1820
+Width 1280=853
+Width 1920=1920
+Window-Maximized 1080x1920=true
 
 [MostFrequentlyUsedSymbols]
-counts=
-paths=
+counts=1
+paths=/usr/share/kile/mathsymbols/special/img034special.png
+
+[NewFileWizard]
+UseWizardWhenCreatingEmptyFile=false
+height=400
+width=475
 
 [QuickPreview]
 convert=true
 dvipng=true
+previewTask=
+
+[Recent Dirs]
+KILE_LATEX_SAVE_DIR[$e]=file:$HOME/Documents/PhD/AMT/homework3/,file:$HOME/Documents/gdr/CriptaSanto/,$HOME/Documents
+
+[Recent Files]
+File1[$e]=$HOME/texmf/tex/latex/dnd/dnd.sty
+File10[$e]=$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex
+File2[$e]=$HOME/texmf/tex/latex/dnd/example.tex
+File3[$e]=$HOME/texmf/tex/latex/dnd/lib/dndmonster.sty
+File4[$e]=$HOME/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex
+File5[$e]=/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+File6[$e]=$HOME/Documents/gdr/CriptaSanto/CriptaSanto.tex
+File7[$e]=$HOME/Documents/PhD/AMT/homework1/homework1_jschiavon.tex
+File8[$e]=$HOME/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex
+File9[$e]=$HOME/Documents/PhD/AMT/homework2/homework2_jschiavon.tex
+Name1[$e]=dnd.sty
+Name10[$e]=homework3_jschiavon.tex
+Name2[$e]=example.tex
+Name3[$e]=dndmonster.sty
+Name4[$e]=tombaroli.tex
+Name5[$e]=geometry.sty
+Name6[$e]=CriptaSanto.tex
+Name7[$e]=homework1_jschiavon.tex
+Name8[$e]=HW2Diquigiovanni.tex
+Name9[$e]=homework2_jschiavon.tex
 
 [Scripting]
 ScriptNameColumnWidth=100
 
 [Session Settings]
-Documents=file://:@/tmp/kile-ySgkwP/test_index.tex
-Saved Documents=file://:@/tmp/kile-ySgkwP/test_index.tex,file://:@/tmp/kile-ySgkwP/test_index.tex,file://:@/tmp/kile-ySgkwP/test_bib.tex,file://:@/tmp/kile-ySgkwP/test_bib.tex,file://:@/tmp/kile-ySgkwP/test.tex,file://:@/tmp/kile-ySgkwP/test.tex,file://:@/tmp/kile-ySgkwP/test.tex,file://:@/tmp/kile-ySgkwP/test.tex,file://:@/tmp/kile-ySgkwP/test.tex,file://:@/tmp/kile-ySgkwP/test_plain.tex,file://:@/tmp/kile-ySgkwP/test_plain.tex
+Documents=file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex
+Saved Documents=file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jacopo.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/usr/share/texmf-dist/tex/latex/geometry/geometry.sty,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file://:@/home/jschiavon/texmf/tex/latex/dnd/example.tex,file://:@/home/jschiavon/texmf/tex/latex/dnd/lib/dndmonster.sty,file://:@/home/jschiavon/texmf/tex/latex/dnd/dnd.sty,file://:@/home/jschiavon/texmf/tex/latex/dnd/dnd.sty,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex,file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex,file://:@/tmp/kile-ySgkwP/test_index.tex,file://:@/tmp/kile-ySgkwP/test_index.tex,file://:@/tmp/kile-ySgkwP/test_bib.tex,file://:@/tmp/kile-ySgkwP/test_bib.tex,file://:@/tmp/kile-ySgkwP/test.tex,file://:@/tmp/kile-ySgkwP/test.tex,file://:@/tmp/kile-ySgkwP/test.tex,file://:@/tmp/kile-ySgkwP/test.tex
 
 [Show]
-BottomBarSize=243
+BottomBarSize=256
+SideBarSize=130
 SystemCheckLastVersionRunForAtStartUp=2.9.92
 
 [Tool/Archive/Tar]
@@ -1080,8 +1301,8 @@ to=xdvi
 type=Process
 
 [ToolSelectAction]
-Compile=-1
-Convert=-1
+Compile=5
+Convert=3
 Quick=0
 View=-1
 
@@ -1164,12 +1385,96 @@ XeLaTeX=Compile,latex
 [VersionInfo]
 RCVersion=8
 
-[View-Settings,View=0,URL=file://:@/tmp/kile-ySgkwP/test.tex]
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex]
+CursorColumn=13
+CursorLine=346
+JumpList=
+TextFolding=[]
+ViMarks=.,346,12,[,346,12,],346,12
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex]
+CursorColumn=0
+CursorLine=47
+JumpList=
+TextFolding=[{"endColumn":18,"endLine":70,"flags":2,"startColumn":4,"startLine":65},{"endColumn":4,"endLine":84,"flags":2,"startColumn":4,"startLine":79},{"endColumn":4,"endLine":91,"flags":2,"startColumn":4,"startLine":89},{"endColumn":4,"endLine":98,"flags":2,"startColumn":4,"startLine":96},{"endColumn":4,"endLine":103,"flags":2,"startColumn":4,"startLine":101},{"endColumn":4,"endLine":109,"flags":2,"startColumn":4,"startLine":107},{"endColumn":54,"endLine":115,"flags":2,"startColumn":4,"startLine":111},{"endColumn":4,"endLine":120,"flags":2,"startColumn":4,"startLine":118},{"endColumn":4,"endLine":127,"flags":2,"startColumn":4,"startLine":125},{"endColumn":4,"endLine":131,"flags":2,"startColumn":4,"startLine":129},{"endColumn":4,"endLine":135,"flags":2,"startColumn":4,"startLine":133}]
+ViMarks=.,53,46,[,53,46,],53,49,a,196,4
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex]
+CursorColumn=56
+CursorLine=99
+JumpList=
+TextFolding=[]
+ViMarks=.,36,0,[,36,0,],36,0
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jacopo.tex]
 CursorColumn=0
 CursorLine=0
 JumpList=
 TextFolding=[]
 ViMarks=
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex]
+CursorColumn=47
+CursorLine=35
+JumpList=
+TextFolding=[]
+ViMarks=.,263,29,[,263,29,],263,29
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex]
+CursorColumn=234
+CursorLine=181
+JumpList=
+TextFolding=[]
+ViMarks=.,181,233,[,181,226,],181,233
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex]
+CursorColumn=16
+CursorLine=70
+JumpList=
+TextFolding=[]
+ViMarks=.,25,0,[,25,0,],26,0
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex]
+CursorColumn=198
+CursorLine=125
+JumpList=
+TextFolding=[]
+ViMarks=.,103,2,[,103,2,],103,2
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex]
+CursorColumn=4
+CursorLine=385
+JumpList=
+TextFolding=[]
+ViMarks=.,385,4,[,385,4,],385,4
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/texmf/tex/latex/dnd/dnd.sty]
+CursorColumn=0
+CursorLine=103
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/texmf/tex/latex/dnd/example.tex]
+CursorColumn=2
+CursorLine=98
+JumpList=
+TextFolding=[]
+ViMarks=.,90,0,[,90,0,],90,0
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/texmf/tex/latex/dnd/lib/dndmonster.sty]
+CursorColumn=0
+CursorLine=191
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[View-Settings,View=0,URL=file://:@/tmp/kile-ySgkwP/test.tex]
+CursorColumn[$d]
+CursorLine[$d]
+JumpList[$d]
+TextFolding[$d]
+ViMarks[$d]
 
 [View-Settings,View=0,URL=file://:@/tmp/kile-ySgkwP/test_bib.tex]
 CursorColumn=0
@@ -1186,8 +1491,18 @@ TextFolding=[]
 ViMarks=
 
 [View-Settings,View=0,URL=file://:@/tmp/kile-ySgkwP/test_plain.tex]
+CursorColumn[$d]
+CursorLine[$d]
+JumpList[$d]
+TextFolding[$d]
+ViMarks[$d]
+
+[View-Settings,View=0,URL=file://:@/usr/share/texmf-dist/tex/latex/geometry/geometry.sty]
 CursorColumn=0
-CursorLine=0
+CursorLine=1006
 JumpList=
 TextFolding=[]
 ViMarks=
+
+[default]
+NewFileWizardSelectedIconLaTeX=Empty File

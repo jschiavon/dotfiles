@@ -18,9 +18,6 @@ Width 1920=700
 LaunchCounts=1 services_telegramdesktop.desktop,1 services_org.kde.latte-dock.desktop,1 services_org.kde.yakuake.desktop
 pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
 
-[PlasmaTransientsConfig]
-PreloadWeight=42
-
 [PlasmaViews][Panel 1][Horizontal1024]
 thickness=45
 

@@ -50,11 +50,11 @@ Meta=org.kde.lattedock,/Latte,org.kde.LatteDock,activateLauncherMenu
 blurEnabled=true
 coverswitchEnabled=true
 cubeEnabled=true
-cubeslideEnabled=true
+cubeslideEnabled[$d]
 desktopchangeosdEnabled=false
 highlightwindowEnabled=true
-kwin4_effect_fadedesktopEnabled=false
-slideEnabled=false
+kwin4_effect_fadedesktopEnabled[$d]
+slideEnabled[$d]
 wobblywindowsEnabled=true
 
 [Script-desktopchangeosd]

@@ -15,5 +15,6 @@
     "update.channel": "none",
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
-    "update.showReleaseNotes": false
+    "update.showReleaseNotes": false,
+    "window.zoomLevel": 0
 }
