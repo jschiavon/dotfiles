@@ -14,6 +14,19 @@ kile_livePreviewEnabled=true
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
 
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/CV/cv.tex]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
 [Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex]
 Bookmarks=196
 Highlighting=LaTeX
@@ -165,11 +178,11 @@ kile_livePreviewStatusUserSpecified[$d]
 kile_livePreviewTool[$d]
 
 [Document-Settings,URL=file://:@/tmp/kile-ySgkwP/test_bib.tex]
-bibliographyBackendAutoDetected=
-bibliographyBackendUserOverride=
-kile_livePreviewEnabled=false
-kile_livePreviewStatusUserSpecified=false
-kile_livePreviewTool=LivePreview-PDFLaTeX
+bibliographyBackendAutoDetected[$d]
+bibliographyBackendUserOverride[$d]
+kile_livePreviewEnabled[$d]
+kile_livePreviewStatusUserSpecified[$d]
+kile_livePreviewTool[$d]
 
 [Document-Settings,URL=file://:@/tmp/kile-ySgkwP/test_index.tex]
 bibliographyBackendAutoDetected=
@@ -212,11 +225,11 @@ View Style=Tree
 detailedViewIconSize=0
 
 [Files]
-LastDocument[$e]=$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex
+LastDocument[$e]=$HOME/Documents/CV/cv.tex
 lastDir[$e]=$HOME/
 
 [FilesOpenOnStart]
-DocsOpenOnStart0[$e]=$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex
+DocsOpenOnStart0[$e]=$HOME/Documents/CV/cv.tex
 DocsOpenOnStart1[$d]
 EncodingsOfDocsOpenOnStart0[$e]=UTF-8
 EncodingsOfDocsOpenOnStart1[$d]
@@ -227,7 +240,7 @@ NoPOOS=0
 MainwindowHeight=1022
 MainwindowWidth=1920
 horizontalSplitterLeft=30
-horizontalSplitterRight=874
+horizontalSplitterRight=871
 verticalSplitterBottom=288
 verticalSplitterTop=672
 
@@ -236,8 +249,8 @@ imagemagick=true
 
 [KFileDialog Settings]
 Height 1080=540
-Recent Files[$e]=file:$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file:$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file:$HOME/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file:$HOME/texmf/tex/latex/dnd/lib/dndmonster.sty,file:$HOME/texmf/tex/latex/dnd/example.tex,file:$HOME/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex,file:$HOME/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file:$HOME/Documents/Archlinux_installazione/installazione_archlinux.tex
-Recent URLs[$e]=file:$HOME/Documents/PhD/AMT/homework3/
+Recent Files[$e]=file:$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file:$HOME/Documents/CV/cv.tex,file:$HOME/Documents/Archlinux_installazione/installazione_archlinux.tex,file:$HOME/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file:$HOME/texmf/tex/latex/dnd/lib/dndmonster.sty,file:$HOME/texmf/tex/latex/dnd/example.tex,file:$HOME/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex,file:$HOME/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex
+Recent URLs[$e]=file:$HOME/Documents/CV/
 Width 1920=960
 
 [KTextEditor Document]
@@ -338,8 +351,8 @@ Width 1920=1920
 Window-Maximized 1080x1920=true
 
 [MostFrequentlyUsedSymbols]
-counts=1
-paths=/usr/share/kile/mathsymbols/special/img034special.png
+counts=1,1
+paths=/usr/share/kile/mathsymbols/special/img034special.png,/usr/share/kile/mathsymbols/misc-math/img012misc-math.png
 
 [NewFileWizard]
 UseWizardWhenCreatingEmptyFile=false
@@ -355,33 +368,33 @@ previewTask=
 KILE_LATEX_SAVE_DIR[$e]=file:$HOME/Documents/PhD/AMT/homework3/,file:$HOME/Documents/gdr/CriptaSanto/,$HOME/Documents
 
 [Recent Files]
-File1[$e]=$HOME/texmf/tex/latex/dnd/dnd.sty
-File10[$e]=$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex
-File2[$e]=$HOME/texmf/tex/latex/dnd/example.tex
-File3[$e]=$HOME/texmf/tex/latex/dnd/lib/dndmonster.sty
-File4[$e]=$HOME/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex
-File5[$e]=/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
-File6[$e]=$HOME/Documents/gdr/CriptaSanto/CriptaSanto.tex
-File7[$e]=$HOME/Documents/PhD/AMT/homework1/homework1_jschiavon.tex
-File8[$e]=$HOME/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex
-File9[$e]=$HOME/Documents/PhD/AMT/homework2/homework2_jschiavon.tex
-Name1[$e]=dnd.sty
-Name10[$e]=homework3_jschiavon.tex
-Name2[$e]=example.tex
-Name3[$e]=dndmonster.sty
-Name4[$e]=tombaroli.tex
-Name5[$e]=geometry.sty
-Name6[$e]=CriptaSanto.tex
-Name7[$e]=homework1_jschiavon.tex
-Name8[$e]=HW2Diquigiovanni.tex
-Name9[$e]=homework2_jschiavon.tex
+File1[$e]=$HOME/texmf/tex/latex/dnd/lib/dndmonster.sty
+File10[$e]=$HOME/Documents/CV/cv.tex
+File2[$e]=$HOME/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex
+File3[$e]=/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+File4[$e]=$HOME/Documents/gdr/CriptaSanto/CriptaSanto.tex
+File5[$e]=$HOME/Documents/PhD/AMT/homework1/homework1_jschiavon.tex
+File6[$e]=$HOME/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex
+File7[$e]=$HOME/Documents/PhD/AMT/homework2/homework2_jschiavon.tex
+File8[$e]=$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex
+File9[$e]=$HOME/Documents/Archlinux_installazione/installazione_archlinux.tex
+Name1[$e]=dndmonster.sty
+Name10[$e]=cv.tex
+Name2[$e]=tombaroli.tex
+Name3[$e]=geometry.sty
+Name4[$e]=CriptaSanto.tex
+Name5[$e]=homework1_jschiavon.tex
+Name6[$e]=HW2Diquigiovanni.tex
+Name7[$e]=homework2_jschiavon.tex
+Name8[$e]=homework3_jschiavon.tex
+Name9[$e]=installazione_archlinux.tex
 
 [Scripting]
 ScriptNameColumnWidth=100
 
 [Session Settings]
-Documents=file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex
-Saved Documents=file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jacopo.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/usr/share/texmf-dist/tex/latex/geometry/geometry.sty,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file://:@/home/jschiavon/texmf/tex/latex/dnd/example.tex,file://:@/home/jschiavon/texmf/tex/latex/dnd/lib/dndmonster.sty,file://:@/home/jschiavon/texmf/tex/latex/dnd/dnd.sty,file://:@/home/jschiavon/texmf/tex/latex/dnd/dnd.sty,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex,file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex,file://:@/tmp/kile-ySgkwP/test_index.tex,file://:@/tmp/kile-ySgkwP/test_index.tex,file://:@/tmp/kile-ySgkwP/test_bib.tex,file://:@/tmp/kile-ySgkwP/test_bib.tex,file://:@/tmp/kile-ySgkwP/test.tex,file://:@/tmp/kile-ySgkwP/test.tex,file://:@/tmp/kile-ySgkwP/test.tex,file://:@/tmp/kile-ySgkwP/test.tex
+Documents=file://:@/home/jschiavon/Documents/CV/cv.tex
+Saved Documents=file://:@/home/jschiavon/Documents/CV/cv.tex,file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex,file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jacopo.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/usr/share/texmf-dist/tex/latex/geometry/geometry.sty,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file://:@/home/jschiavon/texmf/tex/latex/dnd/example.tex,file://:@/home/jschiavon/texmf/tex/latex/dnd/lib/dndmonster.sty,file://:@/home/jschiavon/texmf/tex/latex/dnd/dnd.sty,file://:@/home/jschiavon/texmf/tex/latex/dnd/dnd.sty,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex,file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex,file://:@/tmp/kile-ySgkwP/test_index.tex,file://:@/tmp/kile-ySgkwP/test_index.tex
 
 [Show]
 BottomBarSize=256
@@ -1386,11 +1399,18 @@ XeLaTeX=Compile,latex
 RCVersion=8
 
 [View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex]
-CursorColumn=13
-CursorLine=346
+CursorColumn=27
+CursorLine=73
 JumpList=
 TextFolding=[]
-ViMarks=.,346,12,[,346,12,],346,12
+ViMarks=.,73,20,[,73,20,],73,20
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/CV/cv.tex]
+CursorColumn=17
+CursorLine=103
+JumpList=
+TextFolding=[]
+ViMarks=.,103,16,[,103,9,],103,16
 
 [View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex]
 CursorColumn=0
@@ -1421,8 +1441,8 @@ TextFolding=[]
 ViMarks=.,263,29,[,263,29,],263,29
 
 [View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex]
-CursorColumn=234
-CursorLine=181
+CursorColumn=0
+CursorLine=35
 JumpList=
 TextFolding=[]
 ViMarks=.,181,233,[,181,226,],181,233
@@ -1477,11 +1497,11 @@ TextFolding[$d]
 ViMarks[$d]
 
 [View-Settings,View=0,URL=file://:@/tmp/kile-ySgkwP/test_bib.tex]
-CursorColumn=0
-CursorLine=0
-JumpList=
-TextFolding=[]
-ViMarks=
+CursorColumn[$d]
+CursorLine[$d]
+JumpList[$d]
+TextFolding[$d]
+ViMarks[$d]
 
 [View-Settings,View=0,URL=file://:@/tmp/kile-ySgkwP/test_index.tex]
 CursorColumn=0
