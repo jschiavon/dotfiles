@@ -1,3 +1,9 @@
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Favorite Profiles]
+Favorites=
+
 [FileDialogSize]
 Height 1080=480
 Width 1920=640
@@ -104,13 +110,13 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [KTextEditor::Search]
-Replace History=\\0
-Search History=^,*
+Replace History=\\,,
+Search History=\s,  ,^,*
 
 [MainWindow]
 Height 1080=1022
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAP+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA8AAAAP+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=960
 Window-Maximized 1024x1280=true

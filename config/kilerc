@@ -2,17 +2,17 @@
 DefaultProfile=Shell.profile
 
 [Document-Settings,URL=file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex]
-Bookmarks=
-Highlighting=LaTeX
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=LaTeX
-Mode Set By User=false
-bibliographyBackendAutoDetected=
-bibliographyBackendUserOverride=
-kile_livePreviewEnabled=true
-kile_livePreviewStatusUserSpecified=false
-kile_livePreviewTool=LivePreview-PDFLaTeX
+Bookmarks[$d]
+Highlighting[$d]
+Highlighting Set By User[$d]
+Indentation Mode[$d]
+Mode[$d]
+Mode Set By User[$d]
+bibliographyBackendAutoDetected[$d]
+bibliographyBackendUserOverride[$d]
+kile_livePreviewEnabled[$d]
+kile_livePreviewStatusUserSpecified[$d]
+kile_livePreviewTool[$d]
 
 [Document-Settings,URL=file://:@/home/jschiavon/Documents/CV/cv.tex]
 Bookmarks=
@@ -27,8 +27,8 @@ kile_livePreviewEnabled=true
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
 
-[Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex]
-Bookmarks=196
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamercolorthemegemini.sty]
+Bookmarks=
 Highlighting=LaTeX
 Highlighting Set By User=false
 Indentation Mode=normal
@@ -39,6 +39,74 @@ bibliographyBackendUserOverride=
 kile_livePreviewEnabled=true
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamerthemegemini.sty]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/poster.tex]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/report/report.aux]
+Bookmarks=
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/report/report.bib]
+Bookmarks=
+Highlighting=BibTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=BibTeX
+Mode Set By User=false
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/report/report.tex]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex]
+Bookmarks[$d]
+Highlighting[$d]
+Highlighting Set By User[$d]
+Indentation Mode[$d]
+Mode[$d]
+Mode Set By User[$d]
+bibliographyBackendAutoDetected[$d]
+bibliographyBackendUserOverride[$d]
+kile_livePreviewEnabled[$d]
+kile_livePreviewStatusUserSpecified[$d]
+kile_livePreviewTool[$d]
 
 [Document-Settings,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex]
 Bookmarks=
@@ -93,32 +161,45 @@ kile_livePreviewStatusUserSpecified=true
 kile_livePreviewTool=LivePreview-PDFLaTeX
 
 [Document-Settings,URL=file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex]
-Bookmarks=
-Highlighting=LaTeX
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=LaTeX
-Mode Set By User=false
-bibliographyBackendAutoDetected=
-bibliographyBackendUserOverride=
-kile_livePreviewEnabled=true
-kile_livePreviewStatusUserSpecified=false
-kile_livePreviewTool=LivePreview-PDFLaTeX
+Bookmarks[$d]
+Highlighting[$d]
+Highlighting Set By User[$d]
+Indentation Mode[$d]
+Mode[$d]
+Mode Set By User[$d]
+bibliographyBackendAutoDetected[$d]
+bibliographyBackendUserOverride[$d]
+kile_livePreviewEnabled[$d]
+kile_livePreviewStatusUserSpecified[$d]
+kile_livePreviewTool[$d]
 
 [Document-Settings,URL=file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex]
-Bookmarks=
-Highlighting=LaTeX
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=LaTeX
-Mode Set By User=false
-bibliographyBackendAutoDetected=
-bibliographyBackendUserOverride=
-kile_livePreviewEnabled=true
-kile_livePreviewStatusUserSpecified=false
-kile_livePreviewTool=LivePreview-PDFLaTeX
+Bookmarks[$d]
+Highlighting[$d]
+Highlighting Set By User[$d]
+Indentation Mode[$d]
+Mode[$d]
+Mode Set By User[$d]
+bibliographyBackendAutoDetected[$d]
+bibliographyBackendUserOverride[$d]
+kile_livePreviewEnabled[$d]
+kile_livePreviewStatusUserSpecified[$d]
+kile_livePreviewTool[$d]
 
 [Document-Settings,URL=file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex]
+Bookmarks[$d]
+Highlighting[$d]
+Highlighting Set By User[$d]
+Indentation Mode[$d]
+Mode[$d]
+Mode Set By User[$d]
+bibliographyBackendAutoDetected[$d]
+bibliographyBackendUserOverride[$d]
+kile_livePreviewEnabled[$d]
+kile_livePreviewStatusUserSpecified[$d]
+kile_livePreviewTool[$d]
+
+[Document-Settings,URL=file://:@/home/jschiavon/Downloads/Telegram Desktop/poster.tex]
 Bookmarks=
 Highlighting=LaTeX
 Highlighting Set By User=false
@@ -132,43 +213,43 @@ kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
 
 [Document-Settings,URL=file://:@/home/jschiavon/texmf/tex/latex/dnd/dnd.sty]
-Bookmarks=
-Highlighting=LaTeX
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=LaTeX
-Mode Set By User=false
-bibliographyBackendAutoDetected=
-bibliographyBackendUserOverride=
-kile_livePreviewEnabled=true
-kile_livePreviewStatusUserSpecified=false
-kile_livePreviewTool=LivePreview-PDFLaTeX
+Bookmarks[$d]
+Highlighting[$d]
+Highlighting Set By User[$d]
+Indentation Mode[$d]
+Mode[$d]
+Mode Set By User[$d]
+bibliographyBackendAutoDetected[$d]
+bibliographyBackendUserOverride[$d]
+kile_livePreviewEnabled[$d]
+kile_livePreviewStatusUserSpecified[$d]
+kile_livePreviewTool[$d]
 
 [Document-Settings,URL=file://:@/home/jschiavon/texmf/tex/latex/dnd/example.tex]
-Bookmarks=
-Highlighting=LaTeX
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=LaTeX
-Mode Set By User=false
-bibliographyBackendAutoDetected=
-bibliographyBackendUserOverride=
-kile_livePreviewEnabled=true
-kile_livePreviewStatusUserSpecified=false
-kile_livePreviewTool=LivePreview-PDFLaTeX
+Bookmarks[$d]
+Highlighting[$d]
+Highlighting Set By User[$d]
+Indentation Mode[$d]
+Mode[$d]
+Mode Set By User[$d]
+bibliographyBackendAutoDetected[$d]
+bibliographyBackendUserOverride[$d]
+kile_livePreviewEnabled[$d]
+kile_livePreviewStatusUserSpecified[$d]
+kile_livePreviewTool[$d]
 
 [Document-Settings,URL=file://:@/home/jschiavon/texmf/tex/latex/dnd/lib/dndmonster.sty]
-Bookmarks=
-Highlighting=LaTeX
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=LaTeX
-Mode Set By User=false
-bibliographyBackendAutoDetected=
-bibliographyBackendUserOverride=
-kile_livePreviewEnabled=true
-kile_livePreviewStatusUserSpecified=false
-kile_livePreviewTool=LivePreview-PDFLaTeX
+Bookmarks[$d]
+Highlighting[$d]
+Highlighting Set By User[$d]
+Indentation Mode[$d]
+Mode[$d]
+Mode Set By User[$d]
+bibliographyBackendAutoDetected[$d]
+bibliographyBackendUserOverride[$d]
+kile_livePreviewEnabled[$d]
+kile_livePreviewStatusUserSpecified[$d]
+kile_livePreviewTool[$d]
 
 [Document-Settings,URL=file://:@/tmp/kile-ySgkwP/test.tex]
 bibliographyBackendAutoDetected[$d]
@@ -185,11 +266,11 @@ kile_livePreviewStatusUserSpecified[$d]
 kile_livePreviewTool[$d]
 
 [Document-Settings,URL=file://:@/tmp/kile-ySgkwP/test_index.tex]
-bibliographyBackendAutoDetected=
-bibliographyBackendUserOverride=
-kile_livePreviewEnabled=false
-kile_livePreviewStatusUserSpecified=false
-kile_livePreviewTool=LivePreview-PDFLaTeX
+bibliographyBackendAutoDetected[$d]
+bibliographyBackendUserOverride[$d]
+kile_livePreviewEnabled[$d]
+kile_livePreviewStatusUserSpecified[$d]
+kile_livePreviewTool[$d]
 
 [Document-Settings,URL=file://:@/tmp/kile-ySgkwP/test_plain.tex]
 bibliographyBackendAutoDetected[$d]
@@ -198,7 +279,7 @@ kile_livePreviewEnabled[$d]
 kile_livePreviewStatusUserSpecified[$d]
 kile_livePreviewTool[$d]
 
-[Document-Settings,URL=file://:@/usr/share/texmf-dist/tex/latex/geometry/geometry.sty]
+[Document-Settings,URL=file://:@/usr/share/texmf-dist/tex/latex/beamerposter/beamerposter.sty]
 Bookmarks=
 Highlighting=LaTeX
 Highlighting Set By User=false
@@ -210,6 +291,32 @@ bibliographyBackendUserOverride=
 kile_livePreviewEnabled=true
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty]
+Bookmarks=
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+bibliographyBackendAutoDetected=
+bibliographyBackendUserOverride=
+kile_livePreviewEnabled=true
+kile_livePreviewStatusUserSpecified=false
+kile_livePreviewTool=LivePreview-PDFLaTeX
+
+[Document-Settings,URL=file://:@/usr/share/texmf-dist/tex/latex/geometry/geometry.sty]
+Bookmarks[$d]
+Highlighting[$d]
+Highlighting Set By User[$d]
+Indentation Mode[$d]
+Mode[$d]
+Mode Set By User[$d]
+bibliographyBackendAutoDetected[$d]
+bibliographyBackendUserOverride[$d]
+kile_livePreviewEnabled[$d]
+kile_livePreviewStatusUserSpecified[$d]
+kile_livePreviewTool[$d]
 
 [Favorite Profiles]
 Favorites=
@@ -225,22 +332,26 @@ View Style=Tree
 detailedViewIconSize=0
 
 [Files]
-LastDocument[$e]=$HOME/Documents/CV/cv.tex
+LastDocument[$e]=$HOME/Documents/PhD/AMT/AMT_project_SVM/poster/beamerthemegemini.sty
 lastDir[$e]=$HOME/
 
 [FilesOpenOnStart]
-DocsOpenOnStart0[$e]=$HOME/Documents/CV/cv.tex
-DocsOpenOnStart1[$d]
+DocsOpenOnStart0[$e]=$HOME/Documents/PhD/AMT/AMT_project_SVM/poster/poster.tex
+DocsOpenOnStart1[$e]=$HOME/Documents/PhD/AMT/AMT_project_SVM/poster/beamerthemegemini.sty
+DocsOpenOnStart2[$e]=$HOME/Documents/PhD/AMT/AMT_project_SVM/poster/beamercolorthemegemini.sty
+DocsOpenOnStart3[$d]
 EncodingsOfDocsOpenOnStart0[$e]=UTF-8
-EncodingsOfDocsOpenOnStart1[$d]
-NoDOOS=1
+EncodingsOfDocsOpenOnStart1[$e]=UTF-8
+EncodingsOfDocsOpenOnStart2[$e]=UTF-8
+EncodingsOfDocsOpenOnStart3[$d]
+NoDOOS=3
 NoPOOS=0
 
 [Geometries]
 MainwindowHeight=1022
 MainwindowWidth=1920
 horizontalSplitterLeft=30
-horizontalSplitterRight=871
+horizontalSplitterRight=860
 verticalSplitterBottom=288
 verticalSplitterTop=672
 
@@ -249,8 +360,8 @@ imagemagick=true
 
 [KFileDialog Settings]
 Height 1080=540
-Recent Files[$e]=file:$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file:$HOME/Documents/CV/cv.tex,file:$HOME/Documents/Archlinux_installazione/installazione_archlinux.tex,file:$HOME/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file:$HOME/texmf/tex/latex/dnd/lib/dndmonster.sty,file:$HOME/texmf/tex/latex/dnd/example.tex,file:$HOME/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex,file:$HOME/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex
-Recent URLs[$e]=file:$HOME/Documents/CV/
+Recent Files[$e]=file:$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file:$HOME/Documents/PhD/AMT/AMT_project_SVM/poster/beamercolorthemegemini.sty,file:$HOME/Documents/PhD/AMT/AMT_project_SVM/poster/beamerthemegemini.sty,file:$HOME/Documents/PhD/AMT/AMT_project_SVM/poster/poster.tex,file:$HOME/Documents/PhD/AMT/AMT_project_SVM/report/report.bib,file:$HOME/Documents/CV/cv.tex,file:$HOME/Documents/Archlinux_installazione/installazione_archlinux.tex,file:$HOME/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file:$HOME/texmf/tex/latex/dnd/lib/dndmonster.sty,file:$HOME/texmf/tex/latex/dnd/example.tex,file:$HOME/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex,file:$HOME/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex
+Recent URLs[$e]=file:$HOME/Documents/PhD/AMT/AMT_project_SVM/poster/
 Width 1920=960
 
 [KTextEditor Document]
@@ -338,13 +449,13 @@ Word Completion Remove Tail=true
 
 [KTextEditor::Search]
 Replace History=equation*}
-Search History=table,equation}
+Search History=alert,title,table,equation}
 
 [KileMainWindow]
 Height 1024=653
 Height 1080=1022
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAUAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGAB0AG8AbwBsAHMAVABvAG8AbABCAGEAcgEAAAIm/////wAAAAAAAAAAAAAAFgBlAGQAaQB0AFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABYAbQBhAHQAaABUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAmAE8AawB1AGwAYQByAFYAaQBlAHcAZQByAFQAbwBvAGwAQgBhAHIBAAAD3v////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAUAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGAB0AG8AbwBsAHMAVABvAG8AbABCAGEAcgEAAAIm/////wAAAAAAAAAAAAAAFgBlAGQAaQB0AFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABYAbQBhAHQAaABUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAmAE8AawB1AGwAYQByAFYAaQBlAHcAZQByAFQAbwBvAGwAQgBhAHIBAAAD5P////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 Width 1280=853
 Width 1920=1920
@@ -368,33 +479,33 @@ previewTask=
 KILE_LATEX_SAVE_DIR[$e]=file:$HOME/Documents/PhD/AMT/homework3/,file:$HOME/Documents/gdr/CriptaSanto/,$HOME/Documents
 
 [Recent Files]
-File1[$e]=$HOME/texmf/tex/latex/dnd/lib/dndmonster.sty
-File10[$e]=$HOME/Documents/CV/cv.tex
-File2[$e]=$HOME/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex
-File3[$e]=/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
-File4[$e]=$HOME/Documents/gdr/CriptaSanto/CriptaSanto.tex
-File5[$e]=$HOME/Documents/PhD/AMT/homework1/homework1_jschiavon.tex
-File6[$e]=$HOME/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex
-File7[$e]=$HOME/Documents/PhD/AMT/homework2/homework2_jschiavon.tex
-File8[$e]=$HOME/Documents/PhD/AMT/homework3/homework3_jschiavon.tex
-File9[$e]=$HOME/Documents/Archlinux_installazione/installazione_archlinux.tex
-Name1[$e]=dndmonster.sty
-Name10[$e]=cv.tex
-Name2[$e]=tombaroli.tex
-Name3[$e]=geometry.sty
-Name4[$e]=CriptaSanto.tex
-Name5[$e]=homework1_jschiavon.tex
-Name6[$e]=HW2Diquigiovanni.tex
-Name7[$e]=homework2_jschiavon.tex
-Name8[$e]=homework3_jschiavon.tex
-Name9[$e]=installazione_archlinux.tex
+File1[$e]=$HOME/Documents/CV/cv.tex
+File10[$d]
+File2[$e]=/usr/share/texmf-dist/tex/latex/beamerposter/beamerposter.sty
+File3[$e]=/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+File4[$e]=$HOME/Documents/PhD/AMT/AMT_project_SVM/report/report.aux
+File5[$e]=$HOME/Documents/PhD/AMT/AMT_project_SVM/report/report.bib
+File6[$e]=$HOME/Documents/PhD/AMT/AMT_project_SVM/report/report.tex
+File7[$e]=$HOME/Documents/PhD/AMT/AMT_project_SVM/poster/poster.tex
+File8[$e]=$HOME/Documents/PhD/AMT/AMT_project_SVM/poster/beamerthemegemini.sty
+File9[$e]=$HOME/Documents/PhD/AMT/AMT_project_SVM/poster/beamercolorthemegemini.sty
+Name1[$e]=cv.tex
+Name10[$d]
+Name2[$e]=beamerposter.sty
+Name3[$e]=biblatex.sty
+Name4[$e]=report.aux
+Name5[$e]=report.bib
+Name6[$e]=report.tex
+Name7[$e]=poster.tex
+Name8[$e]=beamerthemegemini.sty
+Name9[$e]=beamercolorthemegemini.sty
 
 [Scripting]
 ScriptNameColumnWidth=100
 
 [Session Settings]
-Documents=file://:@/home/jschiavon/Documents/CV/cv.tex
-Saved Documents=file://:@/home/jschiavon/Documents/CV/cv.tex,file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex,file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jacopo.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/usr/share/texmf-dist/tex/latex/geometry/geometry.sty,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file://:@/home/jschiavon/texmf/tex/latex/dnd/example.tex,file://:@/home/jschiavon/texmf/tex/latex/dnd/lib/dndmonster.sty,file://:@/home/jschiavon/texmf/tex/latex/dnd/dnd.sty,file://:@/home/jschiavon/texmf/tex/latex/dnd/dnd.sty,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex,file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex,file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex,file://:@/tmp/kile-ySgkwP/test_index.tex,file://:@/tmp/kile-ySgkwP/test_index.tex
+Documents=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamercolorthemegemini.sty
+Saved Documents=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamercolorthemegemini.sty,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamerthemegemini.sty,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/poster.tex,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/poster.tex,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/poster.tex,file://:@/home/jschiavon/Downloads/Telegram Desktop/poster.tex,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/poster.tex,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamercolorthemegemini.sty,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamerthemegemini.sty,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/poster.tex,file://:@/home/jschiavon/Downloads/Telegram Desktop/poster.tex,file://:@/home/jschiavon/Downloads/Telegram Desktop/poster.tex,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamercolorthemegemini.sty,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamerthemegemini.sty,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/poster.tex,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/report/report.tex,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/report/report.tex,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/report/report.bib,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/report/report.tex,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/report/report.aux,file://:@/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/report/report.tex,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamerthemegemini.sty,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamercolorthemegemini.sty,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/poster.tex,file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamerthemegemini.sty,file://:@/usr/share/texmf-dist/tex/latex/beamerposter/beamerposter.sty,file://:@/home/jschiavon/Documents/CV/cv.tex,file://:@/home/jschiavon/Documents/CV/cv.tex,file://:@/home/jschiavon/Documents/CV/cv.tex,file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex,file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework3/homework3_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex,file://:@/home/jschiavon/Documents/PhD/AMT/homework2/homework2_jacopo.tex,file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex
 
 [Show]
 BottomBarSize=256
@@ -1314,7 +1425,7 @@ to=xdvi
 type=Process
 
 [ToolSelectAction]
-Compile=5
+Compile=1
 Convert=3
 Quick=0
 View=-1
@@ -1399,25 +1510,67 @@ XeLaTeX=Compile,latex
 RCVersion=8
 
 [View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/Archlinux_installazione/installazione_archlinux.tex]
-CursorColumn=27
-CursorLine=73
-JumpList=
-TextFolding=[]
-ViMarks=.,73,20,[,73,20,],73,20
+CursorColumn[$d]
+CursorLine[$d]
+JumpList[$d]
+TextFolding[$d]
+ViMarks[$d]
 
 [View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/CV/cv.tex]
-CursorColumn=17
-CursorLine=103
+CursorColumn=36
+CursorLine=90
 JumpList=
 TextFolding=[]
-ViMarks=.,103,16,[,103,9,],103,16
+ViMarks=.,94,31,[,94,30,],94,31
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamercolorthemegemini.sty]
+CursorColumn=33
+CursorLine=45
+JumpList=
+TextFolding=[]
+ViMarks=.,45,31,[,45,28,],45,31
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/beamerthemegemini.sty]
+CursorColumn=18
+CursorLine=113
+JumpList=
+TextFolding=[]
+ViMarks=.,125,59,[,125,56,],125,59
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/poster/poster.tex]
+CursorColumn=109
+CursorLine=54
+JumpList=
+TextFolding=[]
+ViMarks=.,54,108,[,54,107,],54,108
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/report/report.aux]
+CursorColumn=0
+CursorLine=5
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/report/report.bib]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=.,0,0,[,0,0,],0,0
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/AMT_project_SVM/report/report.tex]
+CursorColumn=45
+CursorLine=62
+JumpList=
+TextFolding=[]
+ViMarks=.,62,44,[,62,37,],62,44
 
 [View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework1/homework1_jschiavon.tex]
-CursorColumn=0
-CursorLine=47
-JumpList=
-TextFolding=[{"endColumn":18,"endLine":70,"flags":2,"startColumn":4,"startLine":65},{"endColumn":4,"endLine":84,"flags":2,"startColumn":4,"startLine":79},{"endColumn":4,"endLine":91,"flags":2,"startColumn":4,"startLine":89},{"endColumn":4,"endLine":98,"flags":2,"startColumn":4,"startLine":96},{"endColumn":4,"endLine":103,"flags":2,"startColumn":4,"startLine":101},{"endColumn":4,"endLine":109,"flags":2,"startColumn":4,"startLine":107},{"endColumn":54,"endLine":115,"flags":2,"startColumn":4,"startLine":111},{"endColumn":4,"endLine":120,"flags":2,"startColumn":4,"startLine":118},{"endColumn":4,"endLine":127,"flags":2,"startColumn":4,"startLine":125},{"endColumn":4,"endLine":131,"flags":2,"startColumn":4,"startLine":129},{"endColumn":4,"endLine":135,"flags":2,"startColumn":4,"startLine":133}]
-ViMarks=.,53,46,[,53,46,],53,49,a,196,4
+CursorColumn[$d]
+CursorLine[$d]
+JumpList[$d]
+TextFolding[$d]
+ViMarks[$d]
 
 [View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/PhD/AMT/homework2/HW2Diquigiovanni.tex]
 CursorColumn=56
@@ -1448,46 +1601,53 @@ TextFolding=[]
 ViMarks=.,181,233,[,181,226,],181,233
 
 [View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/thelabyrinth.tex]
-CursorColumn=16
-CursorLine=70
-JumpList=
-TextFolding=[]
-ViMarks=.,25,0,[,25,0,],26,0
+CursorColumn[$d]
+CursorLine[$d]
+JumpList[$d]
+TextFolding[$d]
+ViMarks[$d]
 
 [View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/gdr/Campagne/TheLabyrinth/tombaroli.tex]
-CursorColumn=198
-CursorLine=125
-JumpList=
-TextFolding=[]
-ViMarks=.,103,2,[,103,2,],103,2
+CursorColumn[$d]
+CursorLine[$d]
+JumpList[$d]
+TextFolding[$d]
+ViMarks[$d]
 
 [View-Settings,View=0,URL=file://:@/home/jschiavon/Documents/gdr/CriptaSanto/CriptaSanto.tex]
-CursorColumn=4
-CursorLine=385
+CursorColumn[$d]
+CursorLine[$d]
+JumpList[$d]
+TextFolding[$d]
+ViMarks[$d]
+
+[View-Settings,View=0,URL=file://:@/home/jschiavon/Downloads/Telegram Desktop/poster.tex]
+CursorColumn=13
+CursorLine=89
 JumpList=
 TextFolding=[]
-ViMarks=.,385,4,[,385,4,],385,4
+ViMarks=.,89,0,[,76,0,],89,12
 
 [View-Settings,View=0,URL=file://:@/home/jschiavon/texmf/tex/latex/dnd/dnd.sty]
-CursorColumn=0
-CursorLine=103
-JumpList=
-TextFolding=[]
-ViMarks=
+CursorColumn[$d]
+CursorLine[$d]
+JumpList[$d]
+TextFolding[$d]
+ViMarks[$d]
 
 [View-Settings,View=0,URL=file://:@/home/jschiavon/texmf/tex/latex/dnd/example.tex]
-CursorColumn=2
-CursorLine=98
-JumpList=
-TextFolding=[]
-ViMarks=.,90,0,[,90,0,],90,0
+CursorColumn[$d]
+CursorLine[$d]
+JumpList[$d]
+TextFolding[$d]
+ViMarks[$d]
 
 [View-Settings,View=0,URL=file://:@/home/jschiavon/texmf/tex/latex/dnd/lib/dndmonster.sty]
-CursorColumn=0
-CursorLine=191
-JumpList=
-TextFolding=[]
-ViMarks=
+CursorColumn[$d]
+CursorLine[$d]
+JumpList[$d]
+TextFolding[$d]
+ViMarks[$d]
 
 [View-Settings,View=0,URL=file://:@/tmp/kile-ySgkwP/test.tex]
 CursorColumn[$d]
@@ -1504,11 +1664,11 @@ TextFolding[$d]
 ViMarks[$d]
 
 [View-Settings,View=0,URL=file://:@/tmp/kile-ySgkwP/test_index.tex]
-CursorColumn=0
-CursorLine=0
-JumpList=
-TextFolding=[]
-ViMarks=
+CursorColumn[$d]
+CursorLine[$d]
+JumpList[$d]
+TextFolding[$d]
+ViMarks[$d]
 
 [View-Settings,View=0,URL=file://:@/tmp/kile-ySgkwP/test_plain.tex]
 CursorColumn[$d]
@@ -1517,12 +1677,26 @@ JumpList[$d]
 TextFolding[$d]
 ViMarks[$d]
 
-[View-Settings,View=0,URL=file://:@/usr/share/texmf-dist/tex/latex/geometry/geometry.sty]
-CursorColumn=0
-CursorLine=1006
+[View-Settings,View=0,URL=file://:@/usr/share/texmf-dist/tex/latex/beamerposter/beamerposter.sty]
+CursorColumn=40
+CursorLine=157
 JumpList=
 TextFolding=[]
 ViMarks=
+
+[View-Settings,View=0,URL=file://:@/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty]
+CursorColumn=0
+CursorLine=14710
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[View-Settings,View=0,URL=file://:@/usr/share/texmf-dist/tex/latex/geometry/geometry.sty]
+CursorColumn[$d]
+CursorLine[$d]
+JumpList[$d]
+TextFolding[$d]
+ViMarks[$d]
 
 [default]
 NewFileWizardSelectedIconLaTeX=Empty File
