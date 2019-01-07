@@ -1,3 +1,93 @@
 [submodule "dotbot"]
 	path = dotbot
 	url = https://github.com/anishathalye/dotbot
+[submodule "nvim/plugged/grep.vim"]
+	path = nvim/plugged/grep.vim
+	url = https://github.com/yegappan/grep.git
+[submodule "nvim/plugged/nerdtree"]
+	path = nvim/plugged/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "nvim/plugged/CSApprox"]
+	path = nvim/plugged/CSApprox
+	url = https://github.com/vim-scripts/CSApprox.git
+[submodule "nvim/plugged/c-support"]
+	path = nvim/plugged/c-support
+	url = https://github.com/WolfgangMehner/c-support.git
+[submodule "nvim/plugged/jedi-vim"]
+	path = nvim/plugged/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "nvim/plugged/vimtex"]
+	path = nvim/plugged/vimtex
+	url = https://github.com/lervag/vimtex.git
+[submodule "nvim/plugged/FastFold"]
+	path = nvim/plugged/FastFold
+	url = https://github.com/Konfekt/FastFold.git
+[submodule "nvim/plugged/delimitMate"]
+	path = nvim/plugged/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "nvim/plugged/indentLine"]
+	path = nvim/plugged/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
+[submodule "nvim/plugged/molokai"]
+	path = nvim/plugged/molokai
+	url = https://github.com/tomasr/molokai.git
+[submodule "nvim/plugged/requirements.txt.vim"]
+	path = nvim/plugged/requirements.txt.vim
+	url = https://github.com/raimon49/requirements.txt.vim.git
+[submodule "nvim/plugged/split-manpage.vim"]
+	path = nvim/plugged/split-manpage.vim
+	url = https://github.com/ludwig/split-manpage.vim.git
+[submodule "nvim/plugged/syntastic"]
+	path = nvim/plugged/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "nvim/plugged/tagbar"]
+	path = nvim/plugged/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "nvim/plugged/fzf.vim"]
+	path = nvim/plugged/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "nvim/plugged/ultisnips"]
+	path = nvim/plugged/ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+[submodule "nvim/plugged/vim-airline"]
+	path = nvim/plugged/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "nvim/plugged/vim-airline-themes"]
+	path = nvim/plugged/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "nvim/plugged/vim-commentary"]
+	path = nvim/plugged/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "nvim/plugged/vim-fugitive"]
+	path = nvim/plugged/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "nvim/plugged/vim-gitgutter"]
+	path = nvim/plugged/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "nvim/plugged/vim-misc"]
+	path = nvim/plugged/vim-misc
+	url = https://github.com/xolox/vim-misc.git
+[submodule "nvim/plugged/vim-nerdtree-tabs"]
+	path = nvim/plugged/vim-nerdtree-tabs
+	url = https://github.com/jistr/vim-nerdtree-tabs.git
+[submodule "nvim/plugged/vim-polyglot"]
+	path = nvim/plugged/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot.git
+[submodule "nvim/plugged/vimproc.vim"]
+	path = nvim/plugged/vimproc.vim
+	url = https://github.com/Shougo/vimproc.vim.git
+[submodule "nvim/plugged/vim-session"]
+	path = nvim/plugged/vim-session
+	url = https://github.com/xolox/vim-session.git
+[submodule "nvim/plugged/vimshell.vim"]
+	path = nvim/plugged/vimshell.vim
+	url = https://github.com/Shougo/vimshell.vim.git
+[submodule "nvim/plugged/vim-snippets"]
+	path = nvim/plugged/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "nvim/plugged/vim-tex-fold"]
+	path = nvim/plugged/vim-tex-fold
+	url = https://github.com/matze/vim-tex-fold.git
+[submodule "nvim/plugged/vim-trailing-whitespace"]
+	path = nvim/plugged/vim-trailing-whitespace
+	url = https://github.com/bronson/vim-trailing-whitespace.git

@@ -11,6 +11,10 @@ sysmodmap=/etc/X11/xinit/.Xmodmap
 
 DEFAULT_SESSION=startkde
 
+# disable system beeps
+xset b off
+xset b 0 0 0
+
 # merge in defaults and keymaps
 
 if [ -f $sysresources ]; then

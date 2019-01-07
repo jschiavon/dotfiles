@@ -1,8 +1,0 @@
-[Added Associations]
-application/pdf=okularApplication_pdf.desktop;
-text/x-tex=org.kde.kile.desktop;org.kde.kate.desktop;rstudio.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;code-oss.desktop;
-
-[Default Applications]
-text/x-tex=org.kde.kile.desktop;
-x-scheme-handler/code-oss=code.desktop
-x-scheme-handler/mailto=thunderbird.desktop;
