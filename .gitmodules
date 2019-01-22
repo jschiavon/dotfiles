@@ -1,3 +1,21 @@
 [submodule "dotbot"]
 	path = dotbot
 	url = https://github.com/anishathalye/dotbot
+[submodule "nvim/plugged/grep.vim"]
+	path = nvim/plugged/grep.vim
+	url = https://github.com/yegappan/grep.git
+[submodule "nvim/plugged/nerdtree"]
+	path = nvim/plugged/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "nvim/plugged/CSApprox"]
+	path = nvim/plugged/CSApprox
+	url = https://github.com/vim-scripts/CSApprox.git
+[submodule "nvim/plugged/c-support"]
+	path = nvim/plugged/c-support
+	url = https://github.com/WolfgangMehner/c-support.git
+[submodule "nvim/plugged/jedi-vim"]
+	path = nvim/plugged/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "nvim/plugged/vimtex"]
+	path = nvim/plugged/vimtex
+	url = https://github.com/lervag/vimtex.git

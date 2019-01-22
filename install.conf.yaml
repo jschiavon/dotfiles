@@ -1,4 +1,9 @@
-- clean: ['~']
+- defaults:
+    link:
+        create: true
+        relink: true
+
+- clean: ['~','~/.config']
 
 - link:
     ~/.profile: profile
@@ -10,6 +15,18 @@
     ~/.nanorc: nanorc
     ~/.gitconfig: gitconfig
     ~/.oh-my-zsh: oh-my-zsh
-    ~/.config: config
     ~/.conky: conky
+    ~/.config/baloofilerc: baloofilerc
+    ~/.config/katerc: katerc
+    ~/.config/neofetch/config.conf: neofetch.config
+    ~/.config/kwinrc: kwinrc
+    ~/.config/latte/'My Layout.layout.latte': latte.layout
+    ~/.config/lattedockrc: lattedockrc
+    ~/.config/nvim: nvim
+    ~/.config/plasmarc: plasmarc
 
+- shell:
+    - git submodule sync --recursive
+    - git submodule update --init --remote
+    - >
+        vim/plugged/
