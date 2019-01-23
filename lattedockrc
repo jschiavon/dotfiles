@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [DownloadDialog Settings]
 Height 1080=550
 Width 1920=800
@@ -5,6 +6,8 @@ Width 1920=800
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME/.config/latte/My Layout.layout.latte,file:$HOME/.config/latte/My Layout.layout.latte
 
+=======
+>>>>>>> 844064c3d0d35fee19a30d1545de568f411e70bf
 [PlasmaRunnerManager]
 LaunchCounts=4 services_org.kde.kate.desktop,1 services_nvim.desktop,2 services_org.kde.kcalc.desktop,1 services_nvim-qt.desktop,1 services_org.kde.yakuake.desktop,12 services_systemsettings.desktop,2 services_inkscape.desktop,1 services_org.kde.ksysguard.desktop,2 services_mendeleydesktop.desktop,1 services_com.spotify.Client.desktop,1 services_org.kde.kile.desktop,7 services_org.kde.konsole.desktop,1 services_kamera.desktop,1 services_org.kde.dolphin.desktop,1 bookmarks_https://github.com/jschiavon
 pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
@@ -19,9 +22,15 @@ currentLayout=My Layout
 downloadWindowSize=800,550
 lastNonAssignedLayout=My Layout
 launchers=
+<<<<<<< HEAD
 layoutsColumnWidths=91,70,66,0
 layoutsWindowSize=700,573
 memoryUsage=1
+=======
+layoutsColumnWidths=
+layoutsWindowSize=700,450
+memoryUsage=0
+>>>>>>> 844064c3d0d35fee19a30d1545de568f411e70bf
 mouseSensitivity=2
 screenTrackerInterval=2500
 showInfoWindow=true
