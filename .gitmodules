@@ -91,3 +91,6 @@
 [submodule "nvim/plugged/vim-trailing-whitespace"]
 	path = nvim/plugged/vim-trailing-whitespace
 	url = https://github.com/bronson/vim-trailing-whitespace.git
+[submodule "nvim/plugged/vim-colors-solarized"]
+	path = nvim/plugged/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git

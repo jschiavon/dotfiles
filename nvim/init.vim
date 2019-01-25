@@ -76,6 +76,7 @@ Plug 'honza/vim-snippets'
 
 "" Color
 Plug 'tomasr/molokai'
+Plug 'altercation/vim-colors-solarized'
 
 "*****************************************************************************
 "" Custom bundles
@@ -165,6 +166,9 @@ set number
 
 let no_buffers_menu=1
 if !exists('g:not_finish_vimplug')
+  "syntax enable
+  "set background=dark
+  "colorscheme solarized
   colorscheme molokai
 endif
 
@@ -176,6 +180,8 @@ set gfn=Monospace\ 10
 if has("gui_running")
   if has("gui_mac") || has("gui_macvim")
     set guifont=Menlo:h12
+    set transparency=7
+  else
     set transparency=7
   endif
 else
