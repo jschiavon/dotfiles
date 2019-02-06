@@ -20,7 +20,6 @@
     ~/.config/katerc: katerc
     ~/.config/neofetch/config.conf: neofetch.config
     ~/.config/kwinrc: kwinrc
-    ~/.config/latte/My Layout.layout.latte: latte.layout
     ~/.config/lattedockrc: lattedockrc
     ~/.config/nvim: nvim
     ~/.config/plasmarc: plasmarc

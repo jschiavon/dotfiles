@@ -105,6 +105,7 @@ ShowTabBox=true
 SwitchingMode=0
 
 [Windows]
+BorderlessMaximizedWindows=true
 ElectricBorderCooldown=350
 ElectricBorderCornerRatio=0.25
 ElectricBorderDelay=150
@@ -115,8 +116,8 @@ RollOverDesktops=true
 
 [org.kde.kdecoration2]
 BorderSize=None
-ButtonsOnLeft=MS
-ButtonsOnRight=HIAX
+ButtonsOnLeft=XAI
+ButtonsOnRight=
 CloseOnDoubleClickOnMenu=false
 library=org.kde.breeze
 theme[$d]
