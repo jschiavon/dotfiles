@@ -94,3 +94,6 @@
 [submodule "nvim/plugged/vim-colors-solarized"]
 	path = nvim/plugged/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "oh-my-zsh"]
+    path = oh-my-zsh
+    url = https://github.com/robbyrussell/oh-my-zsh.git
