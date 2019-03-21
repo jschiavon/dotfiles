@@ -1,10 +1,14 @@
 [$Version]
-update_info=kwin.upd:replace-scalein-with-scale
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js
 
 [Compositing]
 OpenGLIsUnsafe=false
 
 [Desktops]
+Id_1=1e49a7b6-ad1d-44f3-a8a5-bc2388733f58
+Id_2=80072086-3d15-49e1-9343-583a4334a621
+Id_3=bd9753bf-a3c4-4425-be7d-9eb69079bd07
+Id_4=c27c7a4a-c506-42fb-8660-aa1ae1770b51
 Number=4
 Rows=2
 
@@ -59,12 +63,14 @@ desktopchangeosdEnabled=false
 enforcedecoEnabled=true
 glideEnabled=true
 highlightwindowEnabled=true
+kwin-script-tilingEnabled=false
 kwin4_effect_eyeonscreenEnabled=true
+kwin4_effect_squashEnabled=false
 kwin4_effect_windowapertureEnabled=false
 lookingglassEnabled=true
 magiclampEnabled=true
 minimizeallEnabled=true
-minimizeanimationEnabled=false
+minimizeanimationEnabled[$d]
 sheetEnabled=true
 slideEnabled=false
 synchronizeskipswitcherEnabled=false
@@ -119,5 +125,5 @@ BorderSize=None
 ButtonsOnLeft=XAI
 ButtonsOnRight=
 CloseOnDoubleClickOnMenu=false
-library=org.kde.breeze
-theme[$d]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Breezemite_dark

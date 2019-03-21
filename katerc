@@ -48,7 +48,7 @@ Overwrite Mode=false
 PageUp/PageDown Moves Cursor=false
 Remove Spaces=0
 ReplaceTabsDyn=true
-Show Spaces=false
+Show Spaces=0
 Show Tabs=true
 Smart Home=true
 Swap Directory=
@@ -92,6 +92,7 @@ Keyword Completion=true
 Line Modification=true
 Line Numbers=true
 Maximum Search History Size=100
+Mouse Paste At Cursor Position=false
 Persistent Selection=false
 Scroll Bar Marks=false
 Scroll Bar Mini Map=true
@@ -113,7 +114,7 @@ Word Completion Remove Tail=true
 
 [KTextEditor::Search]
 Replace History=\\,,
-Search History=\s,  ,^,*
+Search History=pace, ,  ,^,*
 
 [MainWindow]
 Height 1080=1020
@@ -123,6 +124,9 @@ ToolBarsMovable=Disabled
 Width 1920=960
 Window-Maximized 1024x1280=true
 Window-Maximized 1080x1920=true
+
+[Notification Messages]
+Kate hide sidebars notification message=false
 
 [filetree]
 editShade=33,84,111

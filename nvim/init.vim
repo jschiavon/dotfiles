@@ -169,7 +169,7 @@ if !exists('g:not_finish_vimplug')
   "syntax enable
   "set background=dark
   "colorscheme solarized
-  colorscheme molokai
+  "colorscheme molokai
 endif
 
 set mousemodel=popup

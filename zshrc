@@ -64,6 +64,8 @@ ZSH_THEME="powerlevel9k/powerlevel9k"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
+  git-flow
+  git-flow-avh
   common-aliases
   colored-man-pages
   pip
