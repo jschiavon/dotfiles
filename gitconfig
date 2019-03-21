@@ -3,3 +3,7 @@
 	email = jacoposchiavon21@gmail.com
 [color]
 	ui = auto
+[credential]
+	helper = cache --timeout=25000
+[push]
+	default = simple
