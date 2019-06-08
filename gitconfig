@@ -7,3 +7,5 @@
 	helper = cache --timeout=25000
 [push]
 	default = simple
+[core]
+	editor = nano
