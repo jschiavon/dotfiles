@@ -24,14 +24,14 @@ Show Tab Bar=true
 Startup Session=manual
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Documents/gdr/TombaOnori/commenti.txt,file:$HOME/Documents/PhD/AMT/AMT_project_SVM/outputs/results_True_try.txt
-Recent URLs[$e]=file:$HOME/Documents/PhD/AMT/AMT_project_SVM/outputs/
+Recent Files[$e]=file:$HOME/prova.tex,file:$HOME/prova.tex
 
 [KTextEditor Document]
 Allow End of Line Detection=true
 BOM=false
-Backup Flags=0
+Backup Local=false
 Backup Prefix=
+Backup Remote=false
 Backup Suffix=~
 Encoding=UTF-8
 End of Line=0
@@ -78,6 +78,7 @@ Auto Center Lines=0
 Auto Completion=true
 Backspace Remove Composed Characters=false
 Bookmark Menu Sorting=0
+Chars To Enclose Selection=
 Default Mark Type=1
 Dynamic Word Wrap=true
 Dynamic Word Wrap Align Indent=80
@@ -119,11 +120,10 @@ Search History=pace, ,  ,^,*
 [MainWindow]
 Height 1080=1020
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAA8AAAAP+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAHgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=960
 Window-Maximized 1024x1280=true
-Window-Maximized 1080x1920=true
 
 [Notification Messages]
 Kate hide sidebars notification message=false
