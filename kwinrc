@@ -145,5 +145,5 @@ ButtonsOnLeft=XAI
 ButtonsOnRight=
 CloseOnDoubleClickOnMenu=false
 ShowToolTips=true
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Arc-Dark
+library=org.kde.breeze
+theme=Breeze

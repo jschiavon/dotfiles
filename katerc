@@ -1,5 +1,5 @@
 [Desktop Entry]
-DefaultProfile=Shell.profile
+DefaultProfile=
 
 [Favorite Profiles]
 Favorites=
@@ -118,11 +118,11 @@ Replace History=\\,,
 Search History=pace, ,  ,^,*
 
 [MainWindow]
-Height 1080=1020
+Height 1080=1018
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAAoAAAAHgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1920=960
+Width 1920=749
 Window-Maximized 1024x1280=true
 
 [Notification Messages]
