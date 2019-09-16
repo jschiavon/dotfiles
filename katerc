@@ -25,8 +25,8 @@ Show Tab Bar=true
 Startup Session=manual
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Documenti/PhD/project_stuff.txt,file:$HOME/Documenti/PhD/project_stuff.txt
-Recent URLs[$e]=file:$HOME/Documenti/PhD/
+Recent Files[$e]=file:$HOME/Documenti/FantaNBA/draft2019
+Recent URLs[$e]=file:$HOME/Documenti/FantaNBA/
 detailViewIconSize=0
 
 [KTextEditor Document]
@@ -110,6 +110,8 @@ Show Line Count=false
 Show Scrollbars=0
 Show Word Count=false
 Smart Copy Cut=false
+Text Drag And Drop=true
+User Sets Of Chars To Enclose Selection=
 Vi Input Mode Steal Keys=false
 Vi Relative Line Numbers=false
 Word Completion=true
@@ -131,8 +133,8 @@ Height 1080=1014
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAABCwAAAP2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1920=1068
-Width 2560=1280
+Width 1920=831
+Width 2560=640
 Window-Maximized 1024x1280=true
 
 [Notification Messages]
