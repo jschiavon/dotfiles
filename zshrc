@@ -2,6 +2,7 @@
 export PATH=$HOME/.local/bin:/usr/local/bin:$PATH
 export DEFAULT_USER=jschiavon
 export R_LIBS_USER="$HOME/.local/lib/R/3.6"
+export LD_LIBRARY_PATH=~/.local/lib:/usr/local/lib
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
@@ -109,13 +110,15 @@ export SSH_KEY_PATH="~/.ssh/rsa_id"
 
 
 # Script to enable blur in yakuake
-if [[ $(ps --no-header -p $PPID -o comm) =~ '^(yakuake|konsole)$' ]]; then
-    for wid in $(xdotool search --pid $PPID); do
-        xprop -f _KDE_NET_WM_BLUR_BEHIND_REGION 32c -set _KDE_NET_WM_BLUR_BEHIND_REGION 0 -id $wid; done
-fi
+#if [[ $(ps --no-header -p $PPID -o comm) =~ '^(yakuake|konsole)$' ]]; then
+#    for wid in $(xdotool search --pid $PPID); do
+#        xprop -f _KDE_NET_WM_BLUR_BEHIND_REGION 32c -set _KDE_NET_WM_BLUR_BEHIND_REGION 0 -id $wid; done
+#fi
 
 alias ls='lsd'
 alias l='ls -l'
 alias la='ls -la'
 alias lt='ls --tree'
 alias pingoogle='ping -c5 www.google.com'
+
+alias gccoptim='g++ -std=c++17 -Ofast -march=native'

@@ -1,5 +1,5 @@
 [$Version]
-update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize
 
 [Compositing]
 AnimationSpeed=3
@@ -15,11 +15,8 @@ XRenderSmoothScale=false
 
 [Desktops]
 Id_1=1e49a7b6-ad1d-44f3-a8a5-bc2388733f58
-Id_2=80072086-3d15-49e1-9343-583a4334a621
-Id_3=bd9753bf-a3c4-4425-be7d-9eb69079bd07
-Id_4=c27c7a4a-c506-42fb-8660-aa1ae1770b51
-Number=4
-Rows=2
+Number=1
+Rows=1
 
 [Effect-Blur]
 BlurStrength=12
@@ -69,12 +66,29 @@ TopRight=None
 [ModifierOnlyShortcuts]
 Meta=org.kde.lattedock,/Latte,org.kde.LatteDock,activateLauncherMenu
 
+[MouseBindings]
+CommandActiveTitlebar1=Raise
+CommandActiveTitlebar2=Start window tab drag
+CommandActiveTitlebar3=Operations menu
+CommandAll1=Move
+CommandAll2=Toggle raise and lower
+CommandAll3=Resize
+CommandAllKey=Alt
+CommandAllWheel=Nothing
+CommandInactiveTitlebar1=Activate and raise
+CommandInactiveTitlebar2=Start window tab drag
+CommandInactiveTitlebar3=Operations menu
+CommandTitlebarWheel=Switch to Window Tab to the Left/Right
+CommandWindow1=Activate, raise and pass click
+CommandWindow2=Activate and pass click
+CommandWindow3=Activate and pass click
+CommandWindowWheel=Scroll
+
 [Plugins]
 activatelattelaunchermenuEnabled=false
 blurEnabled=true
 coverswitchEnabled=true
 cubeEnabled=true
-cubeslideEnabled=true
 desktopchangeosdEnabled=false
 enforcedecoEnabled=true
 glideEnabled=true
@@ -83,20 +97,26 @@ kwin-script-tilingEnabled=false
 kwin4_effect_eyeonscreenEnabled=true
 kwin4_effect_squashEnabled=false
 kwin4_effect_windowapertureEnabled=false
+lattewindowcolorsEnabled=true
 lookingglassEnabled=true
 magiclampEnabled=true
+max2NewVirtualDesktopEnabled=true
 minimizeallEnabled=true
 minimizeanimationEnabled[$d]
 sheetEnabled=true
-slideEnabled=false
 synchronizeskipswitcherEnabled=false
 videowallEnabled=false
+windowgeometryEnabled=false
 wobblywindowsEnabled=true
 zoomEnabled=false
 
 [Script-desktopchangeosd]
 PopupHideDelay=1000
 TextOnly=false
+
+[Script-max2NewVirtualDesktop]
+newDesktopPosition=NextToCurrent
+trigger=FullscreenAndMaximize
 
 [Script-minimizeall]
 BorderActivate=9
@@ -111,7 +131,7 @@ DesktopLayout=org.kde.breeze.desktop
 DesktopListLayout=org.kde.breeze.desktop
 DesktopMode=1
 HighlightWindows=true
-LayoutName=present_windows
+LayoutName=org.kde.breeze.desktop
 MinimizedMode=0
 MultiScreenMode=0
 ShowDesktopMode=0
@@ -139,20 +159,46 @@ Right=None
 Top=None
 
 [Windows]
+ActiveMouseScreen=true
+AutoRaise=false
+AutoRaiseInterval=750
+AutogroupInForeground=true
+AutogroupSimilarWindows=false
+BorderSnapZone=10
 BorderlessMaximizedWindows=true
+CenterSnapZone=0
+ClickRaise=true
+DelayFocusInterval=300
 ElectricBorderCooldown=350
 ElectricBorderCornerRatio=0.25
 ElectricBorderDelay=150
 ElectricBorderMaximize=true
 ElectricBorderTiling=true
 ElectricBorders=0
+FocusPolicy=ClickToFocus
+FocusStealingPreventionLevel=1
+GeometryTip=false
+HideUtilityWindowsForInactive=true
+InactiveTabsSkipTaskbar=false
+MaximizeButtonLeftClickCommand=Maximize
+MaximizeButtonMiddleClickCommand=Maximize (vertical only)
+MaximizeButtonRightClickCommand=Maximize (horizontal only)
+NextFocusPrefersMouse=false
+Placement=Smart
 RollOverDesktops=true
+SeparateScreenFocus=true
+ShadeHover=false
+ShadeHoverInterval=250
+SnapOnlyWhenOverlapping=false
+TitlebarDoubleClickCommand=Maximize
+WindowSnapZone=10
 
 [org.kde.kdecoration2]
 BorderSize=None
+BorderSizeAuto=false
 ButtonsOnLeft=XAI
-ButtonsOnRight=
+ButtonsOnRight=N
 CloseOnDoubleClickOnMenu=false
 ShowToolTips=true
-library=org.kde.breeze
-theme=Breeze
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__KDE-Story
