@@ -1,8 +1,12 @@
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/.local/bin:/usr/local/bin:$PATH
+export PATH=$HOME/.local/bin:$PATH
 export DEFAULT_USER=jschiavon
 export R_LIBS_USER="$HOME/.local/lib/R/3.6"
 export LD_LIBRARY_PATH=~/.local/lib:/usr/local/lib
+
+if which ruby >/dev/null && which gem >/dev/null; then
+    PATH="$(ruby -r rubygems -e 'puts Gem.user_dir')/bin:$PATH"
+fi
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
@@ -75,6 +79,7 @@ plugins=(
   python
   screen
   sudo
+  conda-zsh-completion
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -115,10 +120,38 @@ export SSH_KEY_PATH="~/.ssh/rsa_id"
 #        xprop -f _KDE_NET_WM_BLUR_BEHIND_REGION 32c -set _KDE_NET_WM_BLUR_BEHIND_REGION 0 -id $wid; done
 #fi
 
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/home/jschiavon/.miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/home/jschiavon/.miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/jschiavon/.miniconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/home/jschiavon/.miniconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
+conda activate base
 alias ls='lsd'
 alias l='ls -l'
 alias la='ls -la'
 alias lt='ls --tree'
-alias pingoogle='ping -c5 www.google.com'
 
+alias pingoogle='ping -c5 www.google.com'
 alias gccoptim='g++ -std=c++17 -Ofast -march=native'
+alias phdproject='conda activate pyintel'
+alias pac='curl -s https://www.archlinux.org/feeds/news/ | xmllint --xpath //item/title\ \|\ //item/pubDate /dev/stdin | sed -r -e "s:<title>([^<]*?)</title><pubDate>([^<]*?)</pubDate>:\2\t\1\n:g" | sudo pacman -Syu'
+
+autoload -Uz compinit
+compinit
+
+kitty + complete setup zsh | source /dev/stdin
+
+zstyle ":conda_zsh_completion:*" use-groups true
+. ~/.z-fold/z.sh
+
+conda deactivate

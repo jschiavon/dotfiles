@@ -1,12 +1,11 @@
 [$Version]
-update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed
 
 [Compositing]
-AnimationSpeed=3
 Backend=OpenGL
 Enabled=true
 GLCore=false
-GLPreferBufferSwap=a
+GLPreferBufferSwap=n
 GLTextureFilter=1
 HiddenPreviews=5
 OpenGLIsUnsafe=false
@@ -15,15 +14,16 @@ XRenderSmoothScale=false
 
 [Desktops]
 Id_1=1e49a7b6-ad1d-44f3-a8a5-bc2388733f58
-Number=1
+Id_2=6b901669-3b85-48d8-a048-c61fddf8dca8
+Name_2=New Desktop
+Number=2
 Rows=1
 
 [Effect-Blur]
-BlurStrength=12
-NoiseStrength=9
+BlurStrength=9
+NoiseStrength=0
 
 [Effect-CoverSwitch]
-TabBox=true
 TabBoxAlternative=false
 zPosition=443
 
@@ -38,7 +38,6 @@ TouchBorderActivateSphere=9
 ZOrdering=true
 
 [Effect-DesktopGrid]
-BorderActivate=3
 TouchBorderActivate=9
 
 [Effect-FlipSwitch]
@@ -53,14 +52,16 @@ TouchBorderActivate=7
 TouchBorderActivateAll=9
 TouchBorderActivateClass=9
 
+[Effect-Slide]
+SlideBackground=false
+
 [ElectricBorders]
 Bottom=None
-BottomLeft=ShowDesktop
 BottomRight=None
 Left=None
 Right=None
 Top=None
-TopLeft=ApplicationLauncher
+TopLeft=None
 TopRight=None
 
 [ModifierOnlyShortcuts]
@@ -84,13 +85,22 @@ CommandWindow2=Activate and pass click
 CommandWindow3=Activate and pass click
 CommandWindowWheel=Scroll
 
+[NightColor]
+Active=true
+LatitudeAuto=45.4102
+LongitudeAuto=11.89
+
 [Plugins]
 activatelattelaunchermenuEnabled=false
 blurEnabled=true
+contrastEnabled=true
 coverswitchEnabled=true
 cubeEnabled=true
 desktopchangeosdEnabled=false
+diminactiveEnabled=true
+dynamicVirtualDesktopsEnabled=false
 enforcedecoEnabled=true
+forceblurEnabled=true
 glideEnabled=true
 highlightwindowEnabled=true
 kwin-script-tilingEnabled=false
@@ -100,8 +110,8 @@ kwin4_effect_windowapertureEnabled=false
 lattewindowcolorsEnabled=true
 lookingglassEnabled=true
 magiclampEnabled=true
-max2NewVirtualDesktopEnabled=true
-minimizeallEnabled=true
+max2NewVirtualDesktopEnabled=false
+minimizeallEnabled=false
 minimizeanimationEnabled[$d]
 sheetEnabled=true
 synchronizeskipswitcherEnabled=false
@@ -131,12 +141,11 @@ DesktopLayout=org.kde.breeze.desktop
 DesktopListLayout=org.kde.breeze.desktop
 DesktopMode=1
 HighlightWindows=true
-LayoutName=org.kde.breeze.desktop
+LayoutName=org.kde.breezedark.desktop
 MinimizedMode=0
 MultiScreenMode=0
-ShowDesktopMode=0
+ShowDesktopMode=1
 ShowTabBox=true
-SwitchingMode=0
 TouchBorderActivate=9
 TouchBorderAlternativeActivate=9
 
@@ -145,7 +154,7 @@ ActivitiesMode=1
 ApplicationsMode=0
 DesktopMode=1
 HighlightWindows=true
-LayoutName=org.kde.breeze.desktop
+LayoutName=org.kde.breezedark.desktop
 MinimizedMode=0
 MultiScreenMode=0
 ShowDesktopMode=0
@@ -165,7 +174,7 @@ AutoRaiseInterval=750
 AutogroupInForeground=true
 AutogroupSimilarWindows=false
 BorderSnapZone=10
-BorderlessMaximizedWindows=true
+BorderlessMaximizedWindows=false
 CenterSnapZone=0
 ClickRaise=true
 DelayFocusInterval=300
@@ -184,7 +193,7 @@ MaximizeButtonLeftClickCommand=Maximize
 MaximizeButtonMiddleClickCommand=Maximize (vertical only)
 MaximizeButtonRightClickCommand=Maximize (horizontal only)
 NextFocusPrefersMouse=false
-Placement=Smart
+Placement=Centered
 RollOverDesktops=true
 SeparateScreenFocus=true
 ShadeHover=false
@@ -197,8 +206,8 @@ WindowSnapZone=10
 BorderSize=None
 BorderSizeAuto=false
 ButtonsOnLeft=XAI
-ButtonsOnRight=N
+ButtonsOnRight=
 CloseOnDoubleClickOnMenu=false
 ShowToolTips=true
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__KDE-Story
+theme=__aurorae__svg__Edna

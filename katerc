@@ -7,13 +7,20 @@ Favorites=
 [FileDialogSize]
 Height 1080=480
 Width 1920=640
+Width 2560=640
+eDP1 DP1 Height 1080=480
+eDP1 DP1 Width 2560=640
+eDP1 Height 1080=480
+eDP1 Width 1920=640
 
 [General]
 Close After Last=false
 Config Revision=10
 Days Meta Infos=30
+Expand Tabs=true
 Last Session=
 Modified Notification=false
+Quick Open List Mode=0
 Quick Open Search Mode=0
 Recent File List Entry Count=10
 Restore Window Configuration=true
@@ -22,12 +29,14 @@ Show Full Path in Title=false
 Show Menu Bar=true
 Show Status Bar=true
 Show Tab Bar=true
+Show Tabs Close Button=true
 Startup Session=manual
+Tabbar Tab Limit=0
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Documenti/FantaNBA/draft2019
-Recent URLs[$e]=file:$HOME/Documenti/FantaNBA/
-detailViewIconSize=0
+Recent Files[$e]=file:$HOME/DriveUnipd/GdR/Campagne&OneShot/Strahd/tarocchiusciti.txt,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/_posts/2020-11-01-posting-tutorial.md,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/_posts/2020-11-30-cluster-allocations.md,file:$HOME/DriveUnipd/PhD/Project/OptiSPD/libs/steepest_descent.py,file:$HOME/DriveUnipd/PhD/Project/OptiSPD/libs/manifold.py,file:$HOME/DriveUnipd/GdR/13th Age - PG/Discord/Mappe/mappa_nodi.csv,file:///usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx,file:///usr/share/texmf-dist/tex/latex/biblatex/lbx/italian.lbx,file:///usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx,file:///usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty,file:///usr/share/texmf-dist/tex/latex/biblatex/biblatex.def,file:///usr/share/texmf-dist/tex/latex/biblatex-chicago/chicago-dates-common.cbx,file:///usr/share/texmf-dist/tex/latex/biblatex-chicago/cms-american.lbx,file:///usr/share/texmf-dist/tex/latex/biblatex-chicago/chicago-authordate.bbx,file:///usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+Recent URLs[$e]=file:///usr/share/texmf-dist/tex/latex/biblatex/lbx/,file:$HOME/DriveUnipdShared/LaTeX_Tesi/Appunti/,file:$HOME/DriveUnipd/GdR/Campagne&OneShot/Strahd/,file:$HOME/DriveUnipd/GdR/13th Age - PG/Discord/Mappe/,file:$HOME/DriveUnipd/PhD/Project/OptiSPD/libs/,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/_posts/,file:$HOME/,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/
+detailViewIconSize=16
 
 [KTextEditor Document]
 Allow End of Line Detection=true
@@ -69,6 +78,9 @@ Fallback Encoding=ISO-8859-15
 
 [KTextEditor Renderer]
 Animate Bracket Matching=true
+Auto Color Theme Selection=true
+Color Theme=Breeze Dark
+Font=Fira Code Retina,10,-1,5,53,0,0,0,0,0
 Schema=KDE
 Show Indentation Lines=true
 Show Whole Bracket Expression=true
@@ -81,12 +93,14 @@ Auto Center Lines=0
 Auto Completion=true
 Backspace Remove Composed Characters=false
 Bookmark Menu Sorting=0
+Bracket Match Preview=false
 Chars To Enclose Selection=
 Default Mark Type=1
 Dynamic Word Wrap=true
 Dynamic Word Wrap Align Indent=80
 Dynamic Word Wrap At Static Marker=false
 Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
 Fold First Line=true
 Folding Bar=true
 Folding Preview=true
@@ -119,8 +133,8 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [KTextEditor::Search]
-Replace History=\\,,
-Search History=En,en,pace, ,  ,^,*
+Replace History=grnorm,$,\\,,
+Search History=gradnorm,\\\\\\\\),\\\\\\\\(,erro,review,reviw,maintitle+title,bibmacro{title},{title},title,related,{author},related:,cmsbibsortdate,author/editor,mag+news+author,byauthor,DeclareBibliographyDriver,right,Fras,Meyer,1884,hun,bara,En,en,pace, ,  ,^,*
 
 [Konsole]
 AutoSyncronize=true
@@ -129,13 +143,25 @@ RunPrefix=
 SetEditor=false
 
 [MainWindow]
-Height 1080=1014
+Height 1080=1013
+Height 768=975
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABCwAAAP2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABQAAAAP5AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1920=831
-Width 2560=640
+Width 1024=640
+Width 1920=958
+Width 2560=960
 Window-Maximized 1024x1280=true
+eDP1 DP1 Height 1080=1017
+eDP1 DP1 Width 1920=640
+eDP1 DP1 Width 2560=1280
+eDP1 DP1 XPosition=640
+eDP1 DP1 YPosition=59
+eDP1 Height 1080=1025
+eDP1 Width 1920=960
+eDP1 Window-Maximized 1080x1920=true
+eDP1 XPosition=0
+eDP1 YPosition=55
 
 [Notification Messages]
 Kate hide sidebars notification message=false
