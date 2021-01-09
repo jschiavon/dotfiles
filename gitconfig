@@ -2,10 +2,15 @@
 	name = Jacopo Schiavon
 	email = jacoposchiavon21@gmail.com
 [color]
-	ui = auto
+    branch = auto
+    diff = auto
+    interactive = auto
+    status = auto
 [credential]
 	helper = cache --timeout=25000
 [push]
 	default = simple
 [core]
 	editor = nano
+[pull]
+	rebase = false

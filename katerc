@@ -34,8 +34,8 @@ Startup Session=manual
 Tabbar Tab Limit=0
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/DriveUnipd/GdR/Campagne&OneShot/Strahd/tarocchiusciti.txt,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/_posts/2020-11-01-posting-tutorial.md,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/_posts/2020-11-30-cluster-allocations.md,file:$HOME/DriveUnipd/PhD/Project/OptiSPD/libs/steepest_descent.py,file:$HOME/DriveUnipd/PhD/Project/OptiSPD/libs/manifold.py,file:$HOME/DriveUnipd/GdR/13th Age - PG/Discord/Mappe/mappa_nodi.csv,file:///usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx,file:///usr/share/texmf-dist/tex/latex/biblatex/lbx/italian.lbx,file:///usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx,file:///usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty,file:///usr/share/texmf-dist/tex/latex/biblatex/biblatex.def,file:///usr/share/texmf-dist/tex/latex/biblatex-chicago/chicago-dates-common.cbx,file:///usr/share/texmf-dist/tex/latex/biblatex-chicago/cms-american.lbx,file:///usr/share/texmf-dist/tex/latex/biblatex-chicago/chicago-authordate.bbx,file:///usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
-Recent URLs[$e]=file:///usr/share/texmf-dist/tex/latex/biblatex/lbx/,file:$HOME/DriveUnipdShared/LaTeX_Tesi/Appunti/,file:$HOME/DriveUnipd/GdR/Campagne&OneShot/Strahd/,file:$HOME/DriveUnipd/GdR/13th Age - PG/Discord/Mappe/,file:$HOME/DriveUnipd/PhD/Project/OptiSPD/libs/,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/_posts/,file:$HOME/,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/
+Recent Files[$e]=file:$HOME/DriveUnipd/GdR/Campagne&OneShot/Strahd/tarocchiusciti.txt,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/assets/css/theme2.scss,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/assets/css/main.scss,file:$HOME/Documenti/roller.py,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/_posts/2020-11-01-posting-tutorial.md,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/_posts/2020-11-30-cluster-allocations.md,file:$HOME/DriveUnipd/PhD/Project/OptiSPD/libs/steepest_descent.py,file:$HOME/DriveUnipd/PhD/Project/OptiSPD/libs/manifold.py,file:$HOME/DriveUnipd/GdR/13th Age - PG/Discord/Mappe/mappa_nodi.csv,file:///usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx,file:///usr/share/texmf-dist/tex/latex/biblatex/lbx/italian.lbx,file:///usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx,file:///usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty,file:///usr/share/texmf-dist/tex/latex/biblatex/biblatex.def,file:///usr/share/texmf-dist/tex/latex/biblatex-chicago/chicago-dates-common.cbx,file:///usr/share/texmf-dist/tex/latex/biblatex-chicago/cms-american.lbx
+Recent URLs[$e]=file:///usr/share/texmf-dist/tex/latex/biblatex/lbx/,file:$HOME/DriveUnipdShared/LaTeX_Tesi/Appunti/,file:$HOME/DriveUnipd/GdR/Campagne&OneShot/Strahd/,file:$HOME/DriveUnipd/GdR/13th Age - PG/Discord/Mappe/,file:$HOME/DriveUnipd/PhD/Project/OptiSPD/libs/,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/_posts/,file:$HOME/,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/,file:$HOME/Documenti/,file:$HOME/DriveUnipd/PhD/Other/paperinick.github.io/assets/css/
 detailViewIconSize=16
 
 [KTextEditor Document]
@@ -55,7 +55,7 @@ Indentation Width=4
 Keep Extra Spaces=false
 Line Length Limit=4096
 Newline at End of File=true
-On-The-Fly Spellcheck=false
+On-The-Fly Spellcheck=true
 Overwrite Mode=false
 PageUp/PageDown Moves Cursor=false
 Remove Spaces=0
@@ -146,17 +146,18 @@ SetEditor=false
 Height 1080=1013
 Height 768=975
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABQAAAAP5AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1024=640
 Width 1920=958
 Width 2560=960
 Window-Maximized 1024x1280=true
-eDP1 DP1 Height 1080=1017
+eDP1 DP1 Height 1080=846
 eDP1 DP1 Width 1920=640
-eDP1 DP1 Width 2560=1280
-eDP1 DP1 XPosition=640
-eDP1 DP1 YPosition=59
+eDP1 DP1 Width 2560=827
+eDP1 DP1 Window-Maximized 1080x1920=true
+eDP1 DP1 XPosition=498
+eDP1 DP1 YPosition=133
 eDP1 Height 1080=1025
 eDP1 Width 1920=960
 eDP1 Window-Maximized 1080x1920=true
@@ -165,6 +166,12 @@ eDP1 YPosition=55
 
 [Notification Messages]
 Kate hide sidebars notification message=false
+
+[PluginSymbolViewer]
+ExpandTree=false
+SortSymbols=false
+TreeView=false
+ViewTypes=false
 
 [UiSettings]
 ColorScheme=Aritim-Dark
